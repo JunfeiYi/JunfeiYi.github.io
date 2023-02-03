@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "YiJunfei"
   avatar           : "me.png"
-  bio              : "phd. student in Hunan University, China, changsha."
-  location         : "No. 2 Lushan South Road, Yuelu District, Changsha City, Hunan Province, China"
+  bio              : "Phd. student in Hunan University, China, changsha."
+  location         : #"No. 2 Lushan South Road, Yuelu District."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uPcYnKIAAAAJ&hl=en"
