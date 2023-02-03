@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Junfei! Welcome to my homepage.
+Hello, I'm Junfei. Welcome to my homepage.
+
 I was born in 1997. I'm currently pursuing the Ph.D. degree in National Engineering Center of Robot Visual Perception and Control Technology, Hunan University, and received the M.S. and B.S. degree in Changsha University of Science and Technology and Xi'an University of Posts & Telecommunications in 2021 and 2018, respectively. My current research interests include image processing, machine learning and object detection.
 
 News
