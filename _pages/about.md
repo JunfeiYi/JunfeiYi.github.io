@@ -18,16 +18,16 @@ My research interests include image processing,  object detection, and knowledge
 
 
 ## 📢 News  
-- **[2025-03-07]** Started research on **aircraft panel hole detection** at **COMAC (Commercial Aircraft Corporation of China)** at Shanghai.  
-- **[2025-02-16]** Left Sydney and returned to **Hunan University** to continue pursuing my Ph.D.
-- **[2025-02]** Paper **A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network** was accepted to *IEEE/ASME Transactions on Mechatronics*.
-- **[2025-02]** Paper **Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection** was accepted to *IEEE Transactions on Industrial Informatics*.
-- **[2025-01]** Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*. 
-- **[2024-10]** Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*. 
-- **[2024-02]** Started my visiting research at the University of Technology Sydney (UTS).  
-- **[2023-12]** Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Instrumentation and Measurement*.  
-- **[2022-09]** Paper **Review on the COVID-19 pandemic prevention and control system based on AI** was accepted to *Engineering Applications of Artificial Intelligence*.
-- **[2022-04]** Paper **Pharmaceutical foreign particle detection: an efficient method based on adaptive convolution and multiscale attention** was accepted to *IEEE Transactions on Emerging Topics in Computational Intelligence*.
+-🗓️ **[2025-03-07]** - <span style="font-size: 14px;">Started research on **aircraft panel hole detection** at **COMAC (Commercial Aircraft Corporation of China)** at Shanghai.  
+-🗓️ **[2025-02-16]** - <span style="font-size: 14px;">Left Sydney and returned to **Hunan University** to continue pursuing my Ph.D.
+-🗓️ **[2025-02]** - <span style="font-size: 14px;">Paper **A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network** was accepted to *IEEE/ASME Transactions on Mechatronics*.
+-🗓️ **[2025-02]** - <span style="font-size: 14px;">Paper **Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection** was accepted to *IEEE Transactions on Industrial Informatics*.
+-🗓️ **[2025-01]** - <span style="font-size: 14px;">Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*. 
+-🗓️ **[2024-10]** - <span style="font-size: 14px;">Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*. 
+-🗓️ **[2024-02]** - <span style="font-size: 14px;">Started my visiting research at the University of Technology Sydney (UTS).  
+-🗓️ **[2023-12]** - <span style="font-size: 14px;">Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Instrumentation and Measurement*.  
+-🗓️ **[2022-09]** - <span style="font-size: 14px;">Paper **Review on the COVID-19 pandemic prevention and control system based on AI** was accepted to *Engineering Applications of Artificial Intelligence*.
+-🗓️ **[2022-04]** - <span style="font-size: 14px;">Paper **Pharmaceutical foreign particle detection: an efficient method based on adaptive convolution and multiscale attention** was accepted to *IEEE Transactions on Emerging Topics in Computational Intelligence*.
 
 ## 📚 Publications  
 - **[2025]** **A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network**  
