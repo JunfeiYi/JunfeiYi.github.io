@@ -30,7 +30,10 @@ My research interests include image processing,  object detection, and knowledge
   </ul>
 </div>
 
-### 📚 Publications  
+
+<div class="publication-section">
+
+### 📚 Publications 
 
 #### [2025] A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network  
 📌 *IEEE/ASME Transactions on Mechatronics*  
@@ -67,3 +70,4 @@ My research interests include image processing,  object detection, and knowledge
 👥 Junfei Yi, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang  
 🔗 [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9756199/)  
 📖 Keywords: Automatic detection methods, Computational intelligence algorithms, Adaptive convolution, Multiscale attention, Anchor-free
+</div>  <!-- 结束包裹层 -->
