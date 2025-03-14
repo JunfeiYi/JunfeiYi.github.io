@@ -62,3 +62,45 @@
 .news-section a:hover {
     text-decoration: underline; /* 鼠标悬停时加下划线 */
 }
+
+/* 设置一个统一的字体大小 */
+.publication-section {
+    font-family: 'Inter', sans-serif;  /* 设置统一字体 */
+    font-size: 18px;  /* 设置字体大小为18px，与标题大小一致 */
+    color: #444;  /* 设置字体颜色 */
+    line-height: 1.6;  /* 增加行间距 */
+}
+
+.publication-section h4 {
+    font-size: 18px;  /* 确保标题与其他文本一致 */
+    font-weight: bold;  /* 设置标题加粗 */
+    margin-bottom: 10px;  /* 添加标题下方的间距 */
+}
+
+.publication-section p {
+    margin-bottom: 10px;  /* 为段落间添加间距 */
+}
+
+.publication-section strong {
+    font-weight: bold;  /* 加粗作者名字 */
+}
+
+.publication-section em {
+    font-style: italic;  /* 使期刊名字斜体 */
+}
+
+.publication-section a {
+    color: #0066cc;  /* 设置链接的颜色 */
+    text-decoration: none;  /* 去掉下划线 */
+}
+
+.publication-section a:hover {
+    text-decoration: underline;  /* 鼠标悬停时显示下划线 */
+}
+
+.publication-section .keywords {
+    font-size: 18px;  /* 设置关键词字体大小一致 */
+    color: #333;  /* 设置关键词颜色 */
+    font-weight: normal;  /* 不加粗关键词 */
+}
+
