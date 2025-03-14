@@ -30,10 +30,9 @@ My research interests include image processing,  object detection, and knowledge
   </ul>
 </div>
 
+### 📚 Publications 
 
 <div class="publication-section">
-
-### 📚 Publications 
 
 <!-- 第一个出版物 -->
 <div class="publication-item">
