@@ -18,11 +18,12 @@ My research interests include image processing,  object detection, and knowledge
 
 <div class="news-section">  
   <ul>
-    <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>  
+    <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
     <li>🗓️ [2025-02-16] - Left Sydney and returned to Hunan University to continue pursuing my Ph.D.</li>  
     <li>🗓️ [2025-02] - Paper <em>A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</em> was accepted to *IEEE/ASME Transactions on Mechatronics*.</li>  
-    <li>🗓️ [2025-02] - Paper <em>Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</em> was accepted to *IEEE Transactions on Industrial Informatics*.</li>  
-    <li>🗓️ [2025-01] - Paper <em>FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</em> was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*.</li>  
+    <li>🗓️ [2025-02] - Paper <em>Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</em> was accepted to *IEEE Transactions on Industrial Informatics*.</li>
+    <li>🗓️ [2025-01-29] - Received the <em>2024 IEEE TIM Outstanding Reviewer</em> award for exceptional contributions to the peer review process in IEEE Transactions on Instrumentation and Measurement (TIM).</li>  
+    <li>🗓️ [2024-10] - Paper <em>FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</em> was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*.</li>  
     <li>🗓️ [2024-02] - Started my visiting research at the University of Technology Sydney (UTS).</li>  
     <li>🗓️ [2023-12] - Paper <em>PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection</em> was accepted to *IEEE Transactions on Instrumentation and Measurement*.</li>  
     <li>🗓️ [2022-09] - Paper <em>Review on the COVID-19 pandemic prevention and control system based on AI</em> was accepted to *Engineering Applications of Artificial Intelligence*.</li>  
@@ -55,7 +56,7 @@ My research interests include image processing,  object detection, and knowledge
 <!-- 其他出版物保持相同结构 -->
 <!-- 第三个出版物 -->
 <div class="publication-item">
-<h4>[2025] FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</h4>
+<h4>[2024] FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</h4>
 <p class="journal">📌 <em>IEEE Transactions on Circuits and Systems for Video Technology</em></p>
 <p class="authors">👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Mingjie Li, Kai Zeng, Mingtao Feng, Xiaojun Chang, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://ieeexplore.ieee.org/abstract/document/10731891">Link to Paper</a></p>
@@ -64,7 +65,7 @@ My research interests include image processing,  object detection, and knowledge
 
 <!-- 第四个出版物 -->
 <div class="publication-item">
-<h4>[2024] PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection</h4>
+<h4>[2023] PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection</h4>
 <p class="journal">📌 <em>IEEE Transactions on Instrumentation and Measurement</em></p>
 <p class="authors">👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Kai Zeng, Ziming Tao, Hang Zhong, Shaoyuan Wang, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://ieeexplore.ieee.org/abstract/document/10375333">Link to Paper</a></p>
