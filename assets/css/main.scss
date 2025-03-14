@@ -113,6 +113,14 @@
       margin: 0.5em 0;
     }
 
+    .authors strong {
+      font-weight: 900 !important;     
+      text-decoration: underline;     
+      text-underline-offset: 3px;     
+      color: #2c3e50 !important;       
+      padding-bottom: 1px;             
+    }
+      
     .link a {
       color: #3498db !important;
       text-decoration: none;
