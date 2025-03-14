@@ -63,43 +63,19 @@
     text-decoration: underline; /* 鼠标悬停时加下划线 */
 }
 
-/* 设置统一的字体大小，确保 publication 字体与 news 部分一致 */
-.publication-section {
-    font-family: 'Inter', sans-serif;  /* 设置统一字体 */
-    font-size: 14px;  /* 设置字体大小为14px，与 News 部分一致 */
-    color: #444;  /* 设置字体颜色 */
-    line-height: 1.6;  /* 增加行间距 */
+/* 确保 News 和 Publications 部分的字体大小一致 */
+.news-section, .publication-section {
+    font-size: 14px;  /* 与 News 部分一致 */
+    color: #444;      /* 统一颜色 */
+    line-height: 1.6;  /* 增加行间距，提高可读性 */
+    font-family: 'Inter', sans-serif;  /* 统一字体 */
 }
 
-.publication-section h4 {
-    font-size: 14px;  /* 确保标题与其他文本一致 */
-    font-weight: bold;  /* 设置标题加粗 */
-    margin-bottom: 10px;  /* 添加标题下方的间距 */
-}
-
-.publication-section p {
-    margin-bottom: 10px;  /* 为段落间添加间距 */
-}
-
-.publication-section strong {
-    font-weight: bold;  /* 加粗作者名字 */
-}
-
-.publication-section em {
-    font-style: italic;  /* 使期刊名字斜体 */
-}
-
-.publication-section a {
-    color: #0066cc;  /* 设置链接的颜色 */
+.news-section a, .publication-section a {
+    color: #0066cc;  /* 设置蓝色超链接 */
     text-decoration: none;  /* 去掉下划线 */
 }
 
-.publication-section a:hover {
-    text-decoration: underline;  /* 鼠标悬停时显示下划线 */
-}
-
-.publication-section .keywords {
-    font-size: 14px;  /* 设置关键词字体大小一致 */
-    color: #333;  /* 设置关键词颜色 */
-    font-weight: normal;  /* 不加粗关键词 */
+.news-section a:hover, .publication-section a:hover {
+    text-decoration: underline;  /* 鼠标悬停时加下划线 */
 }
