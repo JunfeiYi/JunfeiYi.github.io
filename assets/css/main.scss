@@ -42,9 +42,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
 
-.news-section p {
-    font-family: 'Inter', sans-serif;
-    font-size: 14px; /* 可以调节大小 */
-    line-height: 1.6; /* 增加行间距，让阅读更舒服 */
-    color: #444; /* 让颜色稍微柔和，不要太黑 */
+.news-section span {
+    font-size: 14px;
+    color: #444;  /* 让颜色稍微柔和 */
+    line-height: 1.6;  /* 增加行间距 */
 }
