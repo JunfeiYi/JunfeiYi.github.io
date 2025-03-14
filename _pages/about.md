@@ -17,28 +17,19 @@ My research interests include image processing,  object detection, and knowledge
 ### 📢 News  
 
 <div class="news-section">  
+  <ul>
+    <li>🗓️ <strong>[2025-03-07]</strong> - Started research on <strong>aircraft panel hole detection</strong> at <strong>COMAC (Commercial Aircraft Corporation of China)</strong> in Shanghai.</li>  
+    <li>🗓️ <strong>[2025-02-16]</strong> - Left Sydney and returned to <strong>Hunan University</strong> to continue pursuing my Ph.D.</li>  
+    <li>🗓️ <strong>[2025-02]</strong> - Paper <strong>A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</strong> was accepted to <em>IEEE/ASME Transactions on Mechatronics</em>.</li>  
+    <li>🗓️ <strong>[2025-02]</strong> - Paper <strong>Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</strong> was accepted to <em>IEEE Transactions on Industrial Informatics</em>.</li>  
+    <li>🗓️ <strong>[2025-01]</strong> - Paper <strong>FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</strong> was accepted to <em>IEEE Transactions on Circuits and Systems for Video Technology</em>.</li>  
+    <li>🗓️ <strong>[2024-02]</strong> - Started my visiting research at the <strong>University of Technology Sydney (UTS)</strong>.</li>  
+    <li>🗓️ <strong>[2023-12]</strong> - Paper <strong>PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection</strong> was accepted to <em>IEEE Transactions on Instrumentation and Measurement</em>.</li>  
+    <li>🗓️ <strong>[2022-09]</strong> - Paper <strong>Review on the COVID-19 pandemic prevention and control system based on AI</strong> was accepted to <em>Engineering Applications of Artificial Intelligence</em>.</li>  
+    <li>🗓️ <strong>[2022-04]</strong> - Paper <strong>Pharmaceutical foreign particle detection: an efficient method based on adaptive convolution and multiscale attention</strong> was accepted to <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.</li>  
+  </ul>
+</div>
 
-- 🗓️ **[2025-03-07]** - Started research on **aircraft panel hole detection** at **COMAC (Commercial Aircraft Corporation of China)** in Shanghai.  
-
-- 🗓️ **[2025-02-16]** - Left Sydney and returned to **Hunan University** to continue pursuing my Ph.D.  
-
-- 🗓️ **[2025-02]** - Paper **A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network** was accepted to *IEEE/ASME Transactions on Mechatronics*.  
-
-- 🗓️ **[2025-02]** - Paper **Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection** was accepted to *IEEE Transactions on Industrial Informatics*.  
-
-- 🗓️ **[2025-01]** - Paper **FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene** was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*.  
-
-- 🗓️ **[2024-02]** - Started my visiting research at the **University of Technology Sydney (UTS)**.  
-
-- 🗓️ **[2023-12]** - Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Instrumentation and Measurement*.  
-
-- 🗓️ **[2022-09]** - Paper **Review on the COVID-19 pandemic prevention and control system based on AI** was accepted to *Engineering Applications of Artificial Intelligence*.  
-
-- 🗓️ **[2022-04]** - Paper **Pharmaceutical foreign particle detection: an efficient method based on adaptive convolution and multiscale attention** was accepted to *IEEE Transactions on Emerging Topics in Computational Intelligence*.  
-
-</div>  
-
----
 
 ### 📚 Publications  
 
