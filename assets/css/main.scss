@@ -63,32 +63,75 @@
     text-decoration: underline; /* 鼠标悬停时加下划线 */
 }
 
+/* Publications 深度定制样式 */
 .publication-section {
-  font-size: 14px !important;  /* 强制字号 */
-  color: #444 !important;
-  line-height: 1.6 !important;
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #444;
+  margin: 2em 0;
 
-  /* 处理标题 */
-  h3, h4 {
-    font-size: 14px !important;  /* 标题与正文同字号 */
-    font-weight: 600 !important;
-    margin: 0.8em 0 !important;
+  h3 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.5em;
+    margin: 2em 0 1.5em !important;
   }
 
-  /* 处理链接 */
-  a {
-    color: #0066cc !important;
-    text-decoration: none !important;
+  .publication-item {
+    background: #f8faff;
+    border: 1px solid #e0e7ff;
+    border-radius: 8px;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    transition: transform 0.2s;
+
     &:hover {
-      text-decoration: underline !important;
+      transform: translateX(5px);
+      box-shadow: 0 4px 12px rgba(52, 152, 219, 0.1);
     }
-  }
 
-  /* 处理列表符号 */
-  ul, ol {
-    li {
-      font-size: 14px !important;
+    h4 {
+      font-size: 1.1em;
+      color: #2c3e50;
+      margin: 0 0 0.8em !important;
+    }
+
+    .journal {
+      color: #7f8c8d;
+      margin: 0.5em 0;
+
+      em {
+        font-style: normal;
+        font-weight: 500;
+      }
+    }
+
+    .authors {
+      color: #666;
+      margin: 0.5em 0;
+    }
+
+    .link a {
+      color: #3498db !important;
+      text-decoration: none;
+      border-bottom: 1px dashed rgba(52, 152, 219, 0.3);
+
+      &:hover {
+        color: #e74c3c !important;
+        border-bottom-style: solid;
+      }
+    }
+
+    .keywords {
+      color: #666;
+      margin: 1em 0 0;
+
+      strong {
+        color: #2c3e50;
+        font-weight: 600;
+      }
     }
   }
 }
