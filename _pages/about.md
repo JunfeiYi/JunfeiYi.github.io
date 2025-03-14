@@ -38,7 +38,7 @@ My research interests include image processing,  object detection, and knowledge
 <div class="publication-item">
 <h4>[2025] A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</h4>
 <p class="journal">📌 <em>IEEE/ASME Transactions on Mechatronics</em></p>
-<p class="authors">👥 Junfei Yi, Jianxu Mao, Hui Zhang, Ziming Tao, Junlong Yu, Weixing Peng, Kai Zeng, Yaonan Wang</p>
+<p class="authors">👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Ziming Tao, Junlong Yu, Weixing Peng, Kai Zeng, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://ieeexplore.ieee.org/abstract/document/10887538/">Link to Paper</a></p>
 <p class="keywords">📖 <strong>Keywords:</strong> Unmanned aerial vehicle, transmission line inspection, slender object, feature refinement, feature erasure</p>
 </div>
@@ -47,7 +47,7 @@ My research interests include image processing,  object detection, and knowledge
 <div class="publication-item">
 <h4>[2025] Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</h4>
 <p class="journal">📌 <em>IEEE Transactions on Industrial Informatics</em></p>
-<p class="authors">👥 Junfei Yi, Jianxu Mao, Hui Zhang, Yurong Chen, Tengfei Liu, Kai Zeng, He Xie, Yaonan Wang</p>
+<p class="authors">👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Yurong Chen, Tengfei Liu, Kai Zeng, He Xie, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://ieeexplore.ieee.org/abstract/document/10841846/">Link to Paper</a></p>
 <p class="keywords">📖 <strong>Keywords:</strong> Real-world transmission line inspection, knowledge distillation, uncertainty-aware knowledge, multiscale relationship, unmanned aerial vehicles</p>
 </div>
@@ -57,7 +57,7 @@ My research interests include image processing,  object detection, and knowledge
 <div class="publication-item">
 <h4>[2025] FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</h4>
 <p class="journal">📌 <em>IEEE Transactions on Circuits and Systems for Video Technology</em></p>
-<p class="authors">👥 Junfei Yi, Jianxu Mao, Hui Zhang, Mingjie Li, Kai Zeng, Mingtao Feng, Xiaojun Chang, Yaonan Wang</p>
+<p class="authors">👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Mingjie Li, Kai Zeng, Mingtao Feng, Xiaojun Chang, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://ieeexplore.ieee.org/abstract/document/10731891">Link to Paper</a></p>
 <p class="keywords">📖 <strong>Keywords:</strong> Small fastener detection, knowledge distillation, shape-sensitive knowledge, and contour-guided distillation</p>
 </div>
@@ -66,7 +66,7 @@ My research interests include image processing,  object detection, and knowledge
 <div class="publication-item">
 <h4>[2024] PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection</h4>
 <p class="journal">📌 <em>IEEE Transactions on Instrumentation and Measurement</em></p>
-<p class="authors">👥 Junfei Yi, Jianxu Mao, Hui Zhang, Kai Zeng, Ziming Tao, Hang Zhong, Shaoyuan Wang, Yaonan Wang</p>
+<p class="authors">👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Kai Zeng, Ziming Tao, Hang Zhong, Shaoyuan Wang, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://ieeexplore.ieee.org/abstract/document/10375333">Link to Paper</a></p>
 <p class="keywords">📖 <strong>Keywords:</strong> Smart Grid, Object Detection, Self-Texture Learning, Patch-Aware Spatial Attention, Transmission Line Inspection</p>
 </div>
@@ -75,7 +75,7 @@ My research interests include image processing,  object detection, and knowledge
 <div class="publication-item">
 <h4>[2022] Review on the COVID-19 Pandemic Prevention and Control System Based on AI</h4>
 <p class="journal">📌 <em>Engineering Applications of Artificial Intelligence</em></p>
-<p class="authors">👥 Junfei Yi, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang</p>
+<p class="authors">👥 <strong>Junfei Yi</strong>, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://www.sciencedirect.com/science/article/pii/S0952197622002858">Link to Paper</a></p>
 <p class="keywords">📖 <strong>Keywords:</strong> Artificial intelligence, COVID-19 big data, Intelligent equipment and systems, Intelligent robots</p>
 </div>
@@ -84,7 +84,7 @@ My research interests include image processing,  object detection, and knowledge
 <div class="publication-item">
 <h4>[2022] Pharmaceutical Foreign Particle Detection: An Efficient Method Based on Adaptive Convolution and Multiscale Attention</h4>
 <p class="journal">📌 <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em></p>
-<p class="authors">👥 Junfei Yi, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang</p>
+<p class="authors">👥 <strong>Junfei Yi</strong>, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang</p>
 <p class="link">🔗 <a href="https://ieeexplore.ieee.org/abstract/document/9756199/">Link to Paper</a></p>
 <p class="keywords">📖 <strong>Keywords:</strong> Automatic detection methods, Computational intelligence algorithms, Adaptive convolution, Multiscale attention, Anchor-free</p>
 </div>
