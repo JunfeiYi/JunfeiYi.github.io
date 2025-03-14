@@ -63,19 +63,32 @@
     text-decoration: underline; /* 鼠标悬停时加下划线 */
 }
 
-/* 确保 News 和 Publications 部分的字体大小一致 */
-.news-section, .publication-section {
-    font-size: 14px;  /* 与 News 部分一致 */
-    color: #444;      /* 统一颜色 */
-    line-height: 1.6;  /* 增加行间距，提高可读性 */
-    font-family: 'Inter', sans-serif;  /* 统一字体 */
-}
+.publication-section {
+  font-size: 14px !important;  /* 强制字号 */
+  color: #444 !important;
+  line-height: 1.6 !important;
+  font-family: 'Inter', sans-serif !important;
 
-.news-section a, .publication-section a {
-    color: #0066cc;  /* 设置蓝色超链接 */
-    text-decoration: none;  /* 去掉下划线 */
-}
+  /* 处理标题 */
+  h3, h4 {
+    font-size: 14px !important;  /* 标题与正文同字号 */
+    font-weight: 600 !important;
+    margin: 0.8em 0 !important;
+  }
 
-.news-section a:hover, .publication-section a:hover {
-    text-decoration: underline;  /* 鼠标悬停时加下划线 */
+  /* 处理链接 */
+  a {
+    color: #0066cc !important;
+    text-decoration: none !important;
+    &:hover {
+      text-decoration: underline !important;
+    }
+  }
+
+  /* 处理列表符号 */
+  ul, ol {
+    li {
+      font-size: 14px !important;
+    }
+  }
 }
