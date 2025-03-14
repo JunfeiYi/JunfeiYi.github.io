@@ -30,42 +30,40 @@ My research interests include image processing,  object detection, and knowledge
   </ul>
 </div>
 
-
 ### 📚 Publications  
 
 #### **[2025] A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network**  
 📌 *IEEE/ASME Transactions on Mechatronics*  
-👥 **<u>Junfei Yi</u>**, Jianxu Mao, Hui Zhang, Ziming Tao, Junlong Yu, Weixing Peng, Kai Zeng, Yaonan Wang  
+👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Ziming Tao, Junlong Yu, Weixing Peng, Kai Zeng, Yaonan Wang  
 🔗 [Link to Paper](https://ieeexplore.ieee.org/abstract/document/10887538/)  
 📖 **Keywords:** Unmanned aerial vehicle, transmission line inspection, slender object, feature refinement, feature erasure  
 
 #### **[2025] Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection**  
 📌 *IEEE Transactions on Industrial Informatics*  
-👥 **<u>Junfei Yi</u>**, Jianxu Mao, Hui Zhang, Yurong Chen, Tengfei Liu, Kai Zeng, He Xie, Yaonan Wang  
+👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Yurong Chen, Tengfei Liu, Kai Zeng, He Xie, Yaonan Wang  
 🔗 [Link to Paper](https://ieeexplore.ieee.org/abstract/document/10841846/)  
 📖 **Keywords:** Real-world transmission line inspection, knowledge distillation, uncertainty-aware knowledge, multiscale relationship, unmanned aerial vehicles  
 
 #### **[2025] FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene**  
 📌 *IEEE Transactions on Circuits and Systems for Video Technology*  
-👥 **<u>Junfei Yi</u>**, Jianxu Mao, Hui Zhang, Mingjie Li, Kai Zeng, Mingtao Feng, Xiaojun Chang, Yaonan Wang  
+👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Mingjie Li, Kai Zeng, Mingtao Feng, Xiaojun Chang, Yaonan Wang  
 🔗 [Link to Paper](https://ieeexplore.ieee.org/abstract/document/10731891)  
 📖 **Keywords:** Small fastener detection, knowledge distillation, shape-sensitive knowledge, and contour-guided distillation  
 
 #### **[2024] PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection**  
 📌 *IEEE Transactions on Instrumentation and Measurement*  
-👥 **<u>Junfei Yi</u>**, Jianxu Mao, Hui Zhang, Kai Zeng, Ziming Tao, Hang Zhong, Shaoyuan Wang, Yaonan Wang  
+👥 <strong>Junfei Yi</strong>, Jianxu Mao, Hui Zhang, Kai Zeng, Ziming Tao, Hang Zhong, Shaoyuan Wang, Yaonan Wang  
 🔗 [Link to Paper](https://ieeexplore.ieee.org/abstract/document/10375333)  
 📖 **Keywords:** Smart Grid, Object Detection, Self-Texture Learning, Patch-Aware Spatial Attention, Transmission Line Inspection  
 
 #### **[2022] Review on the COVID-19 Pandemic Prevention and Control System Based on AI**  
 📌 *Engineering Applications of Artificial Intelligence*  
-👥 **<u>Junfei Yi</u>**, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang  
+👥 <strong>Junfei Yi</strong>, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang  
 🔗 [Link to Paper](https://www.sciencedirect.com/science/article/pii/S0952197622002858)  
 📖 **Keywords:** Artificial intelligence, COVID-19 big data, Intelligent equipment and systems, Intelligent robots  
 
 #### **[2022] Pharmaceutical Foreign Particle Detection: An Efficient Method Based on Adaptive Convolution and Multiscale Attention**  
 📌 *IEEE Transactions on Emerging Topics in Computational Intelligence*  
-👥 **<u>Junfei Yi</u>**, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang  
+👥 <strong>Junfei Yi</strong>, Hui Zhang, Jianxu Mao, Yurong Chen, Hang Zhong, Yaonan Wang  
 🔗 [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9756199/)  
-📖 **Keywords:** Automatic detection methods, Computational intelligence algorithms, Adaptive convolution, Multiscale attention, Anchor-free  
-
+📖 **Keywords:** Automatic detection methods, Computational intelligence algorithms, Adaptive convolution, Multiscale attention, Anchor-free
