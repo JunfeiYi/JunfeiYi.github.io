@@ -4,7 +4,7 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about/ 
   - /about.html
 ---
 
@@ -16,7 +16,7 @@ From February 2024 to February 2025, I am a visiting student at the University o
 
 My research interests include image processing,  object detection, and knowledge distillation.
 
-
+<div class="news-section">
 ## 📢 News  
 -🗓️ **[2025-03-07]** - <span style="font-size: 14px;">Started research on **aircraft panel hole detection** at **COMAC (Commercial Aircraft Corporation of China)** at Shanghai.  
 -🗓️ **[2025-02-16]** - <span style="font-size: 14px;">Left Sydney and returned to **Hunan University** to continue pursuing my Ph.D.
@@ -28,6 +28,8 @@ My research interests include image processing,  object detection, and knowledge
 -🗓️ **[2023-12]** - <span style="font-size: 14px;">Paper **PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection** was accepted to *IEEE Transactions on Instrumentation and Measurement*.  
 -🗓️ **[2022-09]** - <span style="font-size: 14px;">Paper **Review on the COVID-19 pandemic prevention and control system based on AI** was accepted to *Engineering Applications of Artificial Intelligence*.
 -🗓️ **[2022-04]** - <span style="font-size: 14px;">Paper **Pharmaceutical foreign particle detection: an efficient method based on adaptive convolution and multiscale attention** was accepted to *IEEE Transactions on Emerging Topics in Computational Intelligence*.
+</div>
+
 
 ## 📚 Publications  
 - **[2025]** **A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network**  
