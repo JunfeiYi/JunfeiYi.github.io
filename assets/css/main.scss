@@ -2,14 +2,14 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+ *    Minimal Mistakes Jekyll Theme Custom Styles
+ *    - Optimized for News Section Formatting
+ */
 
+/* 导入 Google Fonts: Inter 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+/* 默认 Minimal Mistakes 主题的导入 */
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -40,10 +40,25 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+/* 🎯 自定义 News Section 样式 */
+.news-section {
+    font-size: 14px;  /* 调整字体大小 */
+    color: #444;  /* 让颜色更柔和，避免黑色太刺眼 */
+    line-height: 1.6;  /* 增加行间距，提高可读性 */
+    font-family: 'Inter', sans-serif;  /* 统一字体风格 */
+}
 
-.news-section span {
-    font-size: 14px;
-    color: #444;  /* 让颜色稍微柔和 */
-    line-height: 1.6;  /* 增加行间距 */
+/* 确保 News 里的日期也能正确渲染 */
+.news-section strong {
+    font-weight: 600; /* 让加粗的日期和标题更明显 */
+}
+
+/* 如果有超链接，调整颜色 */
+.news-section a {
+    color: #0066cc;  /* 设定蓝色，匹配一般网站的超链接风格 */
+    text-decoration: none;  /* 去掉下划线 */
+}
+
+.news-section a:hover {
+    text-decoration: underline; /* 鼠标悬停时加下划线 */
 }
