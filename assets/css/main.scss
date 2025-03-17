@@ -2,22 +2,160 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme Custom Styles
- *    - Optimized for News Section Formatting
+ *    🎨 Custom Styles for Minimal Mistakes Jekyll Theme
+ *    - Optimized for News & Publications Formatting
+ *    - Ensures Consistent Font Across Entire Website
  */
 
-/* 导入 Google Fonts: Inter 字体 */
+/* 🎯 导入 Google Fonts: Inter 字体 */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
 
-/* 默认 Minimal Mistakes 主题的导入 */
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+/* ✅ 强制全站字体为 Inter */
+html, body, h1, h2, h3, h4, h5, h6, p, span, li, a, blockquote, 
+.sidebar, .site-title, .site-nav, .page-content, .footer {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 14px;
+    color: #444;
+    line-height: 1.6;
+}
+
+/* ✅ 侧边栏优化 */
+.sidebar, .site-title, .site-nav {
+    font-size: 14px;
+    color: #333;
+}
+
+/* ✅ 导航栏样式 */
+.site-nav {
+    background: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+}
+
+/* ✅ 让 Publications 里的作者名更明显 */
+.publication-section .authors strong {
+    font-weight: 700 !important;
+    color: #222 !important;
+}
+
+/* 🎯 自定义 News Section 样式 */
+.news-section {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.6;
+    font-family: 'Inter', sans-serif;
+}
+
+/* News 里的日期样式 */
+.news-section strong {
+    font-weight: 600;
+}
+
+/* News 超链接样式 */
+.news-section a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.news-section a:hover {
+    text-decoration: underline;
+}
+
+/* 🎯 Publications 样式优化 */
+.publication-section {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 2em 0;
+}
+
+/* Publications 标题样式 */
+.publication-section h3 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.5em;
+    margin: 2em 0 1.5em !important;
+}
+
+/* Publications 具体内容块 */
+.publication-item {
+    background: #f8faff;
+    border: 1px solid #e0e7ff;
+    border-radius: 8px;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    transition: transform 0.2s;
+}
+
+.publication-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.1);
+}
+
+/* 论文标题 */
+.publication-item h4 {
+    font-size: 1.1em;
+    color: #2c3e50;
+    margin: 0 0 0.8em !important;
+}
+
+/* 期刊名称 */
+.publication-item .journal {
+    color: #7f8c8d;
+    margin: 0.5em 0;
+}
+
+.publication-item .journal em {
+    font-style: normal;
+    font-weight: 500;
+}
+
+/* 作者列表 */
+.publication-item .authors {
+    color: #666;
+    margin: 0.5em 0;
+}
+
+/* 加强作者姓名的可读性 */
+.publication-item .authors strong {
+    font-weight: 900 !important;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    color: #2c3e50 !important;
+    padding-bottom: 1px;
+}
+
+/* 论文超链接 */
+.publication-item .link a {
+    color: #3498db !important;
+    text-decoration: none;
+    border-bottom: 1px dashed rgba(52, 152, 219, 0.3);
+}
+
+.publication-item .link a:hover {
+    color: #e74c3c !important;
+    border-bottom-style: solid;
+}
+
+/* 关键字样式 */
+.publication-item .keywords {
+    color: #666;
+    margin: 1em 0 0;
+}
+
+.publication-item .keywords strong {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+/* ✅ 适配 Minimal Mistakes 默认主题 */
+@import "vendor/breakpoint/breakpoint"; 
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
-
 @import "reset";
 @import "base";
-
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -27,119 +165,12 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
-
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
-
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* 🎯 自定义 News Section 样式 */
-.news-section {
-    font-size: 14px;  /* 调整字体大小 */
-    color: #444;  /* 让颜色更柔和，避免黑色太刺眼 */
-    line-height: 1.6;  /* 增加行间距，提高可读性 */
-    font-family: 'Inter', sans-serif;  /* 统一字体风格 */
-}
-
-/* 确保 News 里的日期也能正确渲染 */
-.news-section strong {
-    font-weight: 600; /* 让加粗的日期和标题更明显 */
-}
-
-/* 如果有超链接，调整颜色 */
-.news-section a {
-    color: #0066cc;  /* 设定蓝色，匹配一般网站的超链接风格 */
-    text-decoration: none;  /* 去掉下划线 */
-}
-
-.news-section a:hover {
-    text-decoration: underline; /* 鼠标悬停时加下划线 */
-}
-
-/* Publications 深度定制样式 */
-.publication-section {
-  font-family: 'Inter', sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  color: #444;
-  margin: 2em 0;
-
-  h3 {
-    font-size: 1.5em;
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 0.5em;
-    margin: 2em 0 1.5em !important;
-  }
-
-  .publication-item {
-    background: #f8faff;
-    border: 1px solid #e0e7ff;
-    border-radius: 8px;
-    padding: 1.5em;
-    margin-bottom: 1.5em;
-    transition: transform 0.2s;
-
-    &:hover {
-      transform: translateX(5px);
-      box-shadow: 0 4px 12px rgba(52, 152, 219, 0.1);
-    }
-
-    h4 {
-      font-size: 1.1em;
-      color: #2c3e50;
-      margin: 0 0 0.8em !important;
-    }
-
-    .journal {
-      color: #7f8c8d;
-      margin: 0.5em 0;
-
-      em {
-        font-style: normal;
-        font-weight: 500;
-      }
-    }
-
-    .authors {
-      color: #666;
-      margin: 0.5em 0;
-    }
-
-    .authors strong {
-      font-weight: 900 !important;     
-      text-decoration: underline;     
-      text-underline-offset: 3px;     
-      color: #2c3e50 !important;       
-      padding-bottom: 1px;             
-    }
-      
-    .link a {
-      color: #3498db !important;
-      text-decoration: none;
-      border-bottom: 1px dashed rgba(52, 152, 219, 0.3);
-
-      &:hover {
-        color: #e74c3c !important;
-        border-bottom-style: solid;
-      }
-    }
-
-    .keywords {
-      color: #666;
-      margin: 1em 0 0;
-
-      strong {
-        color: #2c3e50;
-        font-weight: 600;
-      }
-    }
-  }
-}
