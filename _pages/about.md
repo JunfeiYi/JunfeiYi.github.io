@@ -20,14 +20,14 @@ My research interests include image processing,  object detection, and knowledge
   <ul>
     <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
     <li>🗓️ [2025-02-16] - Left Sydney and returned to Hunan University to continue pursuing my Ph.D.</li>  
-    <li>🗓️ [2025-02] - Paper <em>A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</em> was accepted to *IEEE/ASME Transactions on Mechatronics*.</li>  
-    <li>🗓️ [2025-02] - Paper <em>Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</em> was accepted to *IEEE Transactions on Industrial Informatics*.</li>
+    <li>🗓️ [2025-02] - Paper <em>A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</em> was accepted to IEEE/ASME Transactions on Mechatronics.</li>  
+    <li>🗓️ [2025-02] - Paper <em>Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</em> was accepted to IEEE Transactions on Industrial Informatics.</li>
     <li>🗓️ [2025-01-29] - Received the <em>2024 IEEE TIM Outstanding Reviewer</em> award for exceptional contributions to the peer review process in IEEE Transactions on Instrumentation and Measurement (TIM).</li>  
-    <li>🗓️ [2024-10] - Paper <em>FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</em> was accepted to *IEEE Transactions on Circuits and Systems for Video Technology*.</li>  
+    <li>🗓️ [2024-10] - Paper <em>FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</em> was accepted to IEEE Transactions on Circuits and Systems for Video Technology.</li>  
     <li>🗓️ [2024-02] - Started my visiting research at the University of Technology Sydney (UTS).</li>  
-    <li>🗓️ [2023-12] - Paper <em>PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection</em> was accepted to *IEEE Transactions on Instrumentation and Measurement*.</li>  
-    <li>🗓️ [2022-09] - Paper <em>Review on the COVID-19 pandemic prevention and control system based on AI</em> was accepted to *Engineering Applications of Artificial Intelligence*.</li>  
-    <li>🗓️ [2022-04] - Paper <em>Pharmaceutical foreign particle detection: an efficient method based on adaptive convolution and multiscale attention</em> was accepted to *IEEE Transactions on Emerging Topics in Computational Intelligence*.</li>  
+    <li>🗓️ [2023-12] - Paper <em>PSTL-Net: A patchwise self-texture-learning network for Transmission Line Inspection</em> was accepted to IEEE Transactions on Instrumentation and Measurement.</li>  
+    <li>🗓️ [2022-09] - Paper <em>Review on the COVID-19 pandemic prevention and control system based on AI</em> was accepted to Engineering Applications of Artificial Intelligence.</li>  
+    <li>🗓️ [2022-04] - Paper <em>Pharmaceutical foreign particle detection: an efficient method based on adaptive convolution and multiscale attention</em> was accepted to IEEE Transactions on Emerging Topics in Computational Intelligence.</li>  
   </ul>
 </div>
 
