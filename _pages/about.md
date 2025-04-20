@@ -18,7 +18,7 @@ My research interests include image processing,  object detection, and knowledge
 
 <div class="news-section">  
   <ul>
-    <li>🗓️ [2025-04-04] - I successfully concluded an engaging and insightful project, marking the end of a productive and enjoyable experience.
+    <li>🗓️ [2025-04-04] - I successfully concluded an engaging and insightful project, marking the end of a productive and enjoyable experience.</li>
     <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
     <li>🗓️ [2025-02-16] - Left Sydney and returned to Hunan University to continue pursuing my Ph.D.</li>  
     <li>🗓️ [2025-02] - Paper was accepted to <em>IEEE/ASME Transactions on Mechatronics</em> .</li>  
