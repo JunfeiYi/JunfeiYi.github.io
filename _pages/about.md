@@ -18,6 +18,8 @@ My research interests include image processing,  object detection, and knowledge
 
 <div class="news-section">  
   <ul>
+    <li>🗓️ [2025-06-26] - Congratulations, our paper <strong>CVPT: Cross Visual Prompt Tuning</strong> was accepted by <em>ICCV 2025</em>.</li>
+    <li>🗓️ [2025-06-25] - I'm thrilled to share that I successfully passed my PhD defense today — huge thanks to everyone who supported me!</li>
     <li>🗓️ [2025-04-04] - I successfully concluded an engaging and insightful project, marking the end of a productive and enjoyable experience.</li>
     <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
     <li>🗓️ [2025-02-16] - Left Sydney and returned to Hunan University to continue pursuing my Ph.D.</li>  
