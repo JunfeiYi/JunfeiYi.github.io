@@ -23,10 +23,10 @@ My research interests include image processing,  object detection, and knowledge
     <li>🗓️ [2025-06-26] - Congratulations! our paper <strong>CVPT: Cross Visual Prompt Tuning</strong> is accepted by <em>ICCV 2025</em>.</li>
     <li>🗓️ [2025-06-25] - I'm thrilled to share that I successfully passed my PhD defense today — huge thanks to everyone who supported me!</li>
     <li>🗓️ [2025-04-04] - I successfully concluded an engaging and insightful project, marking the end of a productive and enjoyable experience.</li>
-    <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
-    <li>🗓️ [2025-02-16] - Left Sydney and returned to Hunan University to continue pursuing my Ph.D.</li>
 
     <div id="more-news" style="display: none;">
+      <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
+      <li>🗓️ [2025-02-16] - Left Sydney and returned to Hunan University to continue pursuing my Ph.D.</li>
       <li>🗓️ [2025-02] - Paper is accepted to <em>IEEE/ASME Transactions on Mechatronics</em>.</li>  
       <li>🗓️ [2025-02] - Paper is accepted to <em>IEEE Transactions on Industrial Informatics</em>.</li>
       <li>🗓️ [2025-01-29] - Received the <em>2024 IEEE TIM Outstanding Reviewer</em> award.</li>  
@@ -60,7 +60,16 @@ function toggleNews() {
 
 <div class="publication-section">
 
-<!-- 第一个出版物 -->
+<!-- 第1个出版物 -->
+<div class="publication-item">
+<h4>[2025] Toward Efficient Power Scene Detection via Topology-Preserved Knowledge Distillation</h4>
+<p class="journal">📌 <em>IEEE Transactions on Industrial Informatics</em></p>
+<p class="authors">👥 <strong>Junfei Yi</strong>, Tengfei Liu, Jianxu Mao, Yaonan Wang, Hui Zhang, He Xie, Hang Zhong, Xiaojun Chang</p>
+<p class="link">🔗 <a href="https://ieeexplore.ieee.org/document/11123553/">Link to Paper</a></p>
+<p class="keywords">📖 <strong>Keywords:</strong> Automated inspection, graph representation, knowledge distillation, power equipment detection, topology preservation</p>
+</div>
+
+<!-- 第2个出版物 -->
 <div class="publication-item">
 <h4>[2025] A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</h4>
 <p class="journal">📌 <em>IEEE/ASME Transactions on Mechatronics</em></p>
@@ -69,7 +78,7 @@ function toggleNews() {
 <p class="keywords">📖 <strong>Keywords:</strong> Unmanned aerial vehicle, transmission line inspection, slender object, feature refinement, feature erasure</p>
 </div>
 
-<!-- 第二个出版物 -->
+<!-- 第3个出版物 -->
 <div class="publication-item">
 <h4>[2025] Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</h4>
 <p class="journal">📌 <em>IEEE Transactions on Industrial Informatics</em></p>
@@ -79,7 +88,7 @@ function toggleNews() {
 </div>
 
 <!-- 其他出版物保持相同结构 -->
-<!-- 第三个出版物 -->
+<!-- 第4个出版物 -->
 <div class="publication-item">
 <h4>[2024] FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</h4>
 <p class="journal">📌 <em>IEEE Transactions on Circuits and Systems for Video Technology</em></p>
@@ -88,7 +97,7 @@ function toggleNews() {
 <p class="keywords">📖 <strong>Keywords:</strong> Small fastener detection, knowledge distillation, shape-sensitive knowledge, and contour-guided distillation</p>
 </div>
 
-<!-- 第四个出版物 -->
+<!-- 第5个出版物 -->
 <div class="publication-item">
 <h4>[2023] PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection</h4>
 <p class="journal">📌 <em>IEEE Transactions on Instrumentation and Measurement</em></p>
@@ -97,7 +106,7 @@ function toggleNews() {
 <p class="keywords">📖 <strong>Keywords:</strong> Smart Grid, Object Detection, Self-Texture Learning, Patch-Aware Spatial Attention, Transmission Line Inspection</p>
 </div>
 
-<!-- 第五个出版物 -->
+<!-- 第6个出版物 -->
 <div class="publication-item">
 <h4>[2022] Review on the COVID-19 Pandemic Prevention and Control System Based on AI</h4>
 <p class="journal">📌 <em>Engineering Applications of Artificial Intelligence</em></p>
@@ -106,7 +115,7 @@ function toggleNews() {
 <p class="keywords">📖 <strong>Keywords:</strong> Artificial intelligence, COVID-19 big data, Intelligent equipment and systems, Intelligent robots</p>
 </div>
 
-<!-- 第六个出版物 -->
+<!-- 第7个出版物 -->
 <div class="publication-item">
 <h4>[2022] Pharmaceutical Foreign Particle Detection: An Efficient Method Based on Adaptive Convolution and Multiscale Attention</h4>
 <p class="journal">📌 <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em></p>
