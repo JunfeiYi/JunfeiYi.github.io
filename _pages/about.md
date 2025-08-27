@@ -18,22 +18,23 @@ My research interests include image processing,  object detection, and knowledge
 
 <div class="news-section">  
   <ul id="news-list">
-    <li>🗓️ [2025-07-03] - Congratulations! One Paper was accepted to <em>IEEE Transactions on Industrial Informatics</em>.</li>
-    <li>🗓️ [2025-06-26] - Congratulations! our paper <strong>CVPT: Cross Visual Prompt Tuning</strong> was accepted by <em>ICCV 2025</em>.</li>
+    <li>🗓️ [2025-08-09] - Congratulations! Our Paper is accepted to <em>ACM Transactions on Intelligent Systems and Technology </em>.</li>
+    <li>🗓️ [2025-07-03] - Congratulations! One Paper is accepted to <em>IEEE Transactions on Industrial Informatics</em>.</li>
+    <li>🗓️ [2025-06-26] - Congratulations! our paper <strong>CVPT: Cross Visual Prompt Tuning</strong> is accepted by <em>ICCV 2025</em>.</li>
     <li>🗓️ [2025-06-25] - I'm thrilled to share that I successfully passed my PhD defense today — huge thanks to everyone who supported me!</li>
     <li>🗓️ [2025-04-04] - I successfully concluded an engaging and insightful project, marking the end of a productive and enjoyable experience.</li>
     <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
     <li>🗓️ [2025-02-16] - Left Sydney and returned to Hunan University to continue pursuing my Ph.D.</li>
 
     <div id="more-news" style="display: none;">
-      <li>🗓️ [2025-02] - Paper was accepted to <em>IEEE/ASME Transactions on Mechatronics</em>.</li>  
-      <li>🗓️ [2025-02] - Paper was accepted to <em>IEEE Transactions on Industrial Informatics</em>.</li>
+      <li>🗓️ [2025-02] - Paper is accepted to <em>IEEE/ASME Transactions on Mechatronics</em>.</li>  
+      <li>🗓️ [2025-02] - Paper is accepted to <em>IEEE Transactions on Industrial Informatics</em>.</li>
       <li>🗓️ [2025-01-29] - Received the <em>2024 IEEE TIM Outstanding Reviewer</em> award.</li>  
-      <li>🗓️ [2024-10] - Paper was accepted to <em>IEEE Transactions on Circuits and Systems for Video Technology</em>.</li>  
+      <li>🗓️ [2024-10] - Paper is accepted to <em>IEEE Transactions on Circuits and Systems for Video Technology</em>.</li>  
       <li>🗓️ [2024-02] - Started my visiting research at the University of Technology Sydney (UTS).</li>  
-      <li>🗓️ [2023-12] - Paper was accepted to <em>IEEE Transactions on Instrumentation and Measurement</em>.</li>  
-      <li>🗓️ [2022-09] - Paper was accepted to <em>Engineering Applications of Artificial Intelligence</em>.</li>  
-      <li>🗓️ [2022-04] - Paper was accepted to <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.</li>
+      <li>🗓️ [2023-12] - Paper is accepted to <em>IEEE Transactions on Instrumentation and Measurement</em>.</li>  
+      <li>🗓️ [2022-09] - Paper is accepted to <em>Engineering Applications of Artificial Intelligence</em>.</li>  
+      <li>🗓️ [2022-04] - Paper is accepted to <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.</li>
     </div>
   </ul>
   <button id="toggle-button" onclick="toggleNews()" style="margin-left: 1em; margin-top: 10px;">Show More ▼</button>
