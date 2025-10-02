@@ -57,7 +57,7 @@ function toggleNews() {
 </script>
 
 
-### 📚 Publications 
+### 📚 Selected Publications 
 
 <div class="publication-section">
 
