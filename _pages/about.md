@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I'm Junfei. Welcome to my homepage.
 
-I was born in 1997 and recently completed my Ph.D. at the National Engineering Center of Robot Visual Perception and Control Technology, Hunan University, under the supervision of [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm), [Prof. Jianxu Mao](https://eeit.hnu.edu.cn/info/1404/4625.htm), and [Prof. Hui Zhang](https://robotics.hnu.edu.cn/info/1071/1538.htm). From February 2024 to February 2025, I am a visiting student at the University of Technology Sydney (UTS), working under the supervision of [Prof. Xiaojun Chang](https://www.xiaojun.ai/).  
+I was born in 1997 and recently completed my Ph.D. at the National Engineering Center of Robot Visual Perception and Control Technology, Hunan University, under the supervision of [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm), [Prof. Jianxu Mao](https://eeit.hnu.edu.cn/info/1404/4625.htm), and [Prof. Hui Zhang](https://robotics.hnu.edu.cn/info/1071/1538.htm). From February 2024 to February 2025, I am a visiting student at the University of Technology Sydney (UTS), working under the supervision of [Prof. Xiaojun Chang](https://www.xiaojun.ai/). Now, I am a Postdoctoral Researcher with the School of Artificial Intelligence and Robotics, and the National Engineering Research Center of RVC, Hunan University.
 
 My research interests include image processing,  object detection, and knowledge distillation.
 
