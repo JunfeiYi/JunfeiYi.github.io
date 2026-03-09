@@ -18,6 +18,7 @@ My research interests include image processing,  object detection, and knowledge
 
 <div class="news-section">  
   <ul id="news-list">
+    <li>🗓️ [2026-03-09] - Congratulations! One Paper is accepted to <em>IEEE Transactions on Neural Networks and Learning Systems </em>.</li>
     <li>🗓️ [2026-01-24] - Received the <em>2025 IEEE TIM Outstanding Reviewer</em> award.</li> 
     <li>🗓️ [2025-10-19] - Honored to be invited as a Keynote Speaker at the 8th CSIG National Conference on Visual Inspection Technologies.</li>
     <li>🗓️ [2025-09-28] - Congratulations! Our patents has been officially granted by the United States Patent and Trademark Office.</li>
