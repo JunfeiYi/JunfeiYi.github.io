@@ -18,14 +18,15 @@ My research interests include image processing,  object detection, and knowledge
 
 <div class="news-section">  
   <ul id="news-list">
+    <li>🗓️ [2026-03-15] - Congratulations! One Paper is accepted to <em>IEEE Transactions on Pattern Analysis and Machine Intelligence </em>.</li>
     <li>🗓️ [2026-03-09] - Congratulations! One Paper is accepted to <em>IEEE Transactions on Neural Networks and Learning Systems </em>.</li>
     <li>🗓️ [2026-01-24] - Received the <em>2025 IEEE TIM Outstanding Reviewer</em> award.</li> 
     <li>🗓️ [2025-10-19] - Honored to be invited as a Keynote Speaker at the 8th CSIG National Conference on Visual Inspection Technologies.</li>
     <li>🗓️ [2025-09-28] - Congratulations! Our patents has been officially granted by the United States Patent and Trademark Office.</li>
     <li>🗓️ [2025-08-09] - Congratulations! Our Paper is accepted to <em>ACM Transactions on Intelligent Systems and Technology </em>.</li>
     <li>🗓️ [2025-07-03] - Congratulations! One Paper is accepted to <em>IEEE Transactions on Industrial Informatics</em>.</li>
-    <li>🗓️ [2025-06-26] - Congratulations! our paper <strong>CVPT: Cross Visual Prompt Tuning</strong> is accepted by <em>ICCV 2025</em>.</li>
     <div id="more-news" style="display: none;">
+       <li>🗓️ [2025-06-26] - Congratulations! our paper <strong>CVPT: Cross Visual Prompt Tuning</strong> is accepted by <em>ICCV 2025</em>.</li>
       <li>🗓️ [2025-06-25] - I'm thrilled to share that I successfully passed my PhD defense today — huge thanks to everyone who supported me!</li>
         <li>🗓️ [2025-04-04] - I successfully concluded an engaging and insightful project, marking the end of a productive and enjoyable experience.</li>
       <li>🗓️ [2025-03-07] - Started research on aircraft panel hole detection at COMAC (Commercial Aircraft Corporation of China) in Shanghai.</li>
