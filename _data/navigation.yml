@@ -1,10 +1,22 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "About Me"
+    url: /#about-me
 
-  #- title: "News"
-  #  url: /news/    
+  - title: "News"
+    url: /#news
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
+
+  - title: "Educations"
+    url: /#educations
+
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=uPcYnKIAAAAJ&hl=en
 
   #- title: "Teaching"
   #  url: /teaching/    
