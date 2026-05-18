@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YiJunfei / Homepage"
+title                    : "Junfei Yi"
 title_separator          : "-"
 name                     : &name "Junfei Yi"
-description              : &description "personal description"
+description              : &description "Focusing on computer vision for industrial visual inspection."
 url                      : https://JunfeiYi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JunfeiYi/JunfeiYi.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "YiJunfei"
+  name             : "Junfei Yi"
   avatar           : "me.png"
   bio              : "Postdoctoral Researcher at Hunan University."
   location         : "Changsha, China"
-  employer         :
+  employer         : "Hunan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uPcYnKIAAAAJ&hl=en"
   email            : "yijunfei@hnu.edu.cn"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JunfeiYi"
+  github           : "JunfeiYi"
   google_plus      :
   keybase          :
   instagram        :
