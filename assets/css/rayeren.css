@@ -11,7 +11,8 @@
 body {
   background: var(--ray-bg);
   color: var(--ray-ink);
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: "Trebuchet MS", "PingFang SC", "Microsoft YaHei", Helvetica, sans-serif;
+  font-size: 16px;
   letter-spacing: 0;
 }
 
@@ -123,19 +124,20 @@ body {
 }
 
 .ray-page .page__content {
-  font-size: 0.98rem;
+  font-size: 16px !important;
   line-height: 1.68;
 }
 
 .ray-page .page__content p,
 .ray-page .page__content li {
   color: var(--ray-ink);
-  font-size: 0.98rem;
+  font-size: 16px !important;
   line-height: 1.68;
 }
 
 .ray-page .page__content a {
   color: var(--ray-link);
+  font-size: inherit !important;
   text-decoration: none;
 }
 
@@ -148,14 +150,14 @@ body {
   padding-bottom: 0.35rem;
   border-bottom: 1px solid var(--ray-line);
   color: var(--ray-ink);
-  font-size: 1.42rem;
+  font-size: 22px !important;
   line-height: 1.25;
 }
 
 .ray-page .page__content h2 {
   margin: 1.35rem 0 0.8rem;
   color: var(--ray-ink);
-  font-size: 1.08rem;
+  font-size: 17px !important;
   line-height: 1.35;
 }
 
@@ -206,21 +208,21 @@ body {
 .ray-publication h3 {
   margin: 0 0 0.2rem;
   color: var(--ray-ink);
-  font-size: 1rem;
+  font-size: 16px !important;
   line-height: 1.35;
 }
 
 .ray-publication .authors {
   margin: 0 0 0.3rem;
   color: var(--ray-muted);
-  font-size: 0.93rem;
+  font-size: 15px !important;
   line-height: 1.55;
 }
 
 .ray-publication .links {
   margin: 0 0 0.35rem;
   color: var(--ray-muted);
-  font-size: 0.88rem;
+  font-size: 14px !important;
 }
 
 .ray-publication ul {
@@ -231,7 +233,7 @@ body {
 .ray-publication li {
   margin-bottom: 0.18rem;
   color: var(--ray-muted);
-  font-size: 0.92rem;
+  font-size: 15px !important;
 }
 
 .ray-compact-list {

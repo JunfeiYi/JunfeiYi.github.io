@@ -13,7 +13,7 @@ redirect_from:
 
 I am Junfei Yi (易俊飞), a Postdoctoral Researcher with the School of Artificial Intelligence and Robotics, and the National Engineering Research Center of Robot Visual Perception and Control Technology, Hunan University.
 
-I recently completed my Ph.D. at Hunan University, advised by [Prof. Yaonan Wang (王耀南)](https://eeit.hnu.edu.cn/info/1277/4490.htm), [Prof. Jianxu Mao (毛建旭)](https://eeit.hnu.edu.cn/info/1404/4625.htm), and [Prof. Hui Zhang (张辉)](https://robotics.hnu.edu.cn/info/1071/1538.htm). From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓君)](https://www.xiaojun.ai/).
+I recently completed my Ph.D. at Hunan University, advised by [Prof. Yaonan Wang (王耀南)](https://eeit.hnu.edu.cn/info/1277/4490.htm), [Prof. Jianxu Mao (毛建旭)](https://eeit.hnu.edu.cn/info/1404/4625.htm), and [Prof. Hui Zhang (张辉)](https://robotics.hnu.edu.cn/info/1071/1538.htm). From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓军)](https://www.xiaojun.ai/).
 
 My research interests include image processing, object detection, visual inspection, and knowledge distillation. I focus on efficient and reliable perception models for real-world industrial scenes, including power equipment inspection and transmission line inspection.
 
