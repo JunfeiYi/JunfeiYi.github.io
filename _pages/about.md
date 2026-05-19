@@ -158,23 +158,14 @@ I have published 40+ papers in high-impact journals and conferences, including <
 </ul>
 
 <h1 id="projects"><i class="fas fa-project-diagram ray-heading-icon" aria-hidden="true"></i> Projects</h1>
-
 <div class="ray-projects">
-
   <div class="ray-project">国家留学基金委博士联合培养项目：University of Technology Sydney, hosted by Prof. Xiaojun Chang（2024–2025），主持。</div>
-  
-    <div class="ray-project">湖南省研究生科研创新项目：基于CNN和GCN多模型融合的药液异物检测方法研究（2022–2024，1万），主持。</div>
-
+  <div class="ray-project">湖南省研究生科研创新项目：基于CNN和GCN多模型融合的药液异物检测方法研究（2022–2024，1万），主持。</div>
   <div class="ray-project">湖南省研究生科研创新项目：复杂电力场景下的机器人三维视觉检测技术研究（2020–2021，1万），主持。</div>
-  
-    <div class="ray-project">国家科技重大专项：高精度智能装调的具身感知模型与自主执行系统研发及验证（3318.94万），课题骨干。</div>
-  
+  <div class="ray-project">国家科技重大专项：高精度智能装调的具身感知模型与自主执行系统研发及验证（3318.94万），课题骨干。</div>
   <div class="ray-project">国家自然科学基金重点项目：复杂受限环境下机器人多模态三维感知与自主灵巧作业研究（2021–2026，290万），核心成员。</div>
-
   <div class="ray-project">国家自然科学基金重大项目课题二：大范围制造场景下集群机器人多模态精准感知（2023–2027，200万），核心成员。</div>
-
   <div class="ray-project">国家电网公司总部科技项目：高性能声音敏感材料、器件与智能声源定位系统研究及应用（2024–2026，260万），核心成员。</div>
-
 </div>
 
 
