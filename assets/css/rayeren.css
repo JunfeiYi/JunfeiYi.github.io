@@ -11,9 +11,16 @@
 body {
   background: var(--ray-bg);
   color: var(--ray-ink);
-  font-family: "Trebuchet MS", "PingFang SC", "Microsoft YaHei", Helvetica, sans-serif;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   font-size: 16px;
   letter-spacing: 0;
+}
+
+.ray-page,
+.ray-page *,
+.masthead,
+.masthead * {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif !important;
 }
 
 .masthead {
