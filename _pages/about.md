@@ -67,7 +67,7 @@ My research interests include image processing, object detection, visual inspect
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TII 2025</div>
-    <div class="ray-thumb"><img src="/images/papers/tii-2025-topology-preserved-kd.jpg" alt="Overview of topology-preserved knowledge distillation"></div>
+    <div class="ray-thumb"><img src="/images/papers/tii-2025-topology-preserved-kd.png" alt="Overview of topology-preserved knowledge distillation"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/document/11123553/">Toward Efficient Power Scene Detection via Topology-Preserved Knowledge Distillation</a></h3>
