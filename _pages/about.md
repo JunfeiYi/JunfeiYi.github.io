@@ -11,11 +11,17 @@ redirect_from:
 
 # About Me
 
-I am Junfei Yi (易俊飞), a Postdoctoral Researcher with the School of Artificial Intelligence and Robotics, and the National Engineering Research Center of Robot Visual Perception and Control Technology, Hunan University.
+I am Junfei Yi (易俊飞), a Postdoctoral Researcher in Control Science and Engineering (控制科学与工程, a national key discipline) at Hunan University. I am affiliated with the School of Artificial Intelligence and Robotics and the National Engineering Research Center of Robot Visual Perception and Control Technology.
 
-I recently completed my Ph.D. at Hunan University, advised by [Prof. Yaonan Wang (王耀南，中国工程院院士)](https://eeit.hnu.edu.cn/info/1277/4490.htm), [Prof. Jianxu Mao (毛建旭)](https://eeit.hnu.edu.cn/info/1404/4625.htm), and [Prof. Hui Zhang (张辉，长江学者)](https://robotics.hnu.edu.cn/info/1071/1538.htm). From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓军，长江讲席)](https://www.xiaojun.ai/).
+My postdoctoral work is jointly supervised by [Prof. Yaonan Wang (王耀南，中国工程院院士)](https://eeit.hnu.edu.cn/info/1277/4490.htm) and [Prof. Hui Zhang (张辉，长江学者特聘教授)](https://robotics.hnu.edu.cn/info/1071/1538.htm). I completed my Ph.D. at Hunan University under the supervision of Prof. Wang, [Prof. Jianxu Mao (毛建旭)](https://eeit.hnu.edu.cn/info/1404/4625.htm), and Prof. Zhang. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓军，长江讲席特聘教授)](https://www.xiaojun.ai/).
 
-My research interests include image processing, object detection, visual inspection, and knowledge distillation. I focus on efficient and reliable perception models for real-world industrial scenes, including power equipment inspection and transmission line inspection.
+My research is driven by major engineering needs in robotics and intelligent inspection. I work on robust robotic perception, precise localization, efficient recognition, object detection, visual inspection, and knowledge distillation for complex, resource-constrained, and cross-scale industrial environments.
+
+# Research Profile
+
+During my doctoral research, I focused on the deep integration of theoretical modeling and engineering validation for robot perception under complex changing environments, cross-scale multi-shape targets, and limited computing resources. I have developed a methodological framework for robust perception, precise localization, and efficient recognition (鲁棒感知-精准定位-高效识别), enabling high-accuracy and efficient robotic detection and recognition in complex constrained scenes.
+
+My work has been published in high-impact journals and conferences, including <em>IEEE TPAMI</em>, <em>IEEE TCSVT</em>, <em>IEEE TNNLS</em>, <em>IEEE TII</em>, <em>IEEE/ASME Transactions on Mechatronics</em>, ICCV, and <em>Scientia Sinica Informationis</em> (中国科学: 信息科学). I have authored more than 30 papers, including 9 independent first-author papers and 2 corresponding-author papers, with a cumulative journal impact factor of 92.7.
 
 # News
 
@@ -137,16 +143,32 @@ My research interests include image processing, object detection, visual inspect
 # Honors and Awards
 
 <ul class="ray-compact-list">
+  <li>Selected by the China Association for Science and Technology (CAST) Excellent Scientific and Technological Paper Program (中国科协优秀科技论文遴选计划, 22 papers selected nationally in the field).</li>
+  <li>Best Paper Award from <em>Control and Decision</em> (《控制与决策》最佳论文奖).</li>
+  <li>National Scholarship from the Ministry of Education, awarded twice.</li>
   <li><strong>2026.01</strong>: 2025 IEEE TIM Outstanding Reviewer Award.</li>
   <li><strong>2025.01</strong>: 2024 IEEE TIM Outstanding Reviewer Award.</li>
   <li><strong>2025.10</strong>: Keynote speaker at the 8th CSIG National Conference on Visual Inspection Technologies.</li>
-  <li><strong>2025.09</strong>: United States patent granted by the United States Patent and Trademark Office.</li>
+  <li><strong>2025.09</strong>: One United States invention patent granted; six Chinese invention patents granted.</li>
+  <li>First Prize of Science and Technology Innovation Award of the China General Chamber of Commerce.</li>
+  <li>Second Prize of the Invention and Entrepreneurship Innovation Award of the China Association of Inventions.</li>
+  <li>First Prize of the National Service Industry Science and Technology Innovation Award of the China General Chamber of Commerce.</li>
+</ul>
+
+# Projects and Service
+
+<ul class="ray-compact-list">
+  <li>Principal investigator of a China Scholarship Council doctoral joint-training project at the University of Technology Sydney, with Prof. Xiaojun Chang (常晓军，长江讲席特聘教授) as host supervisor.</li>
+  <li>Principal investigator of two provincial graduate research innovation projects.</li>
+  <li>Participated in major and key projects, including a Key Program of the National Natural Science Foundation of China (2.90 million RMB), a Major Program of the National Natural Science Foundation of China (15.00 million RMB), and a National Science and Technology Major Project (33.1894 million RMB, key project member).</li>
+  <li>Long-term reviewer for leading journals and conferences, including <em>IEEE TNNLS</em>, <em>IEEE TII</em>, <em>IEEE TIM</em>, and ICCV.</li>
+  <li>Invited academic talks at the 2025 CSIG National Conference on Visual Inspection Technologies and national postdoctoral academic exchange events.</li>
 </ul>
 
 # Educations
 
 <ul class="ray-compact-list">
-  <li><strong>2025 - present</strong>: Postdoctoral Researcher, Hunan University, Changsha.</li>
+  <li><strong>2025 - present</strong>: Postdoctoral Researcher, Control Science and Engineering, Hunan University, Changsha.</li>
   <li><strong>Ph.D.</strong>: Hunan University, National Engineering Research Center of Robot Visual Perception and Control Technology.</li>
   <li><strong>2024.02 - 2025.02</strong>: Visiting student, University of Technology Sydney.</li>
 </ul>
