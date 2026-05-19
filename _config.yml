@@ -85,6 +85,9 @@ author:
   bio              : "Postdoctoral Researcher in Control Science and Engineering at Hunan University."
   location         : "Changsha, China"
   employer         : "Hunan University"
+  memberships:
+    - "IEEE Member"
+    - "CSIG Member"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uPcYnKIAAAAJ&hl=en"
   email            : "yijunfei@hnu.edu.cn"

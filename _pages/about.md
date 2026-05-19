@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+<h1 id="about-me"><i class="fas fa-user ray-heading-icon" aria-hidden="true"></i> About Me</h1>
 
 I am Junfei Yi (易俊飞), a Postdoctoral Researcher in Control Science and Engineering (控制科学与工程, a national key discipline) at Hunan University. I am affiliated with the School of Artificial Intelligence and Robotics and the National Engineering Research Center of Robot Visual Perception and Control Technology.
 
@@ -17,13 +17,13 @@ My postdoctoral work is jointly supervised by [Prof. Yaonan Wang (王耀南，�
 
 My research is driven by major engineering needs in robotics and intelligent inspection. I work on robust robotic perception, precise localization, efficient recognition, object detection, visual inspection, and knowledge distillation for complex, resource-constrained, and cross-scale industrial environments.
 
-# Research Profile
+<h1 id="research-profile"><i class="fas fa-microscope ray-heading-icon" aria-hidden="true"></i> Research Profile</h1>
 
 During my doctoral research, I focused on the deep integration of theoretical modeling and engineering validation for robot perception under complex changing environments, cross-scale multi-shape targets, and limited computing resources. I have developed a methodological framework for robust perception, precise localization, and efficient recognition (鲁棒感知-精准定位-高效识别), enabling high-accuracy and efficient robotic detection and recognition in complex constrained scenes.
 
-My work has been published in high-impact journals and conferences, including <em>IEEE TPAMI</em>, <em>IEEE TCSVT</em>, <em>IEEE TNNLS</em>, <em>IEEE TII</em>, <em>IEEE/ASME Transactions on Mechatronics</em>, ICCV, and <em>Scientia Sinica Informationis</em> (中国科学: 信息科学). I have authored more than 30 papers, including 9 independent first-author papers and 2 corresponding-author papers, with a cumulative journal impact factor of 92.7.
+I have published 40+ papers in high-impact journals and conferences, including <em>IEEE TPAMI</em>, <em>IEEE TCSVT</em>, <em>IEEE TNNLS</em>, <em>IEEE TII</em>, <em>IEEE/ASME Transactions on Mechatronics</em>, ICCV, and <em>Scientia Sinica Informationis</em> (中国科学: 信息科学).
 
-# News
+<h1 id="news"><i class="fas fa-newspaper ray-heading-icon" aria-hidden="true"></i> News</h1>
 
 <ul class="ray-news">
   <li><strong>2026.03</strong>: <strong>Distilling Object Detectors via Monte Carlo Dropout</strong> appears in <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>.</li>
@@ -36,7 +36,7 @@ My work has been published in high-impact journals and conferences, including <e
   <li><strong>2025.06</strong>: <strong>CVPT: Cross Visual Prompt Tuning</strong> is accepted by <em>ICCV 2025</em>.</li>
 </ul>
 
-# Publications
+<h1 id="publications"><i class="fas fa-file-alt ray-heading-icon" aria-hidden="true"></i> Publications</h1>
 
 ## Representative First-author Papers
 
@@ -140,32 +140,71 @@ My work has been published in high-impact journals and conferences, including <e
 
 <p>For the full and latest publication record, please visit my <a href="https://scholar.google.com/citations?user=uPcYnKIAAAAJ&hl=en">Google Scholar profile</a>.</p>
 
-# Honors and Awards
+<h1 id="honors-and-awards"><i class="fas fa-award ray-heading-icon" aria-hidden="true"></i> Honors and Awards</h1>
 
 <ul class="ray-compact-list">
   <li>Selected by the China Association for Science and Technology (CAST) Excellent Scientific and Technological Paper Program (中国科协优秀科技论文遴选计划, 22 papers selected nationally in the field).</li>
   <li>Best Paper Award from <em>Control and Decision</em> (《控制与决策》最佳论文奖).</li>
-  <li>National Scholarship from the Ministry of Education, awarded twice.</li>
-  <li><strong>2026.01</strong>: 2025 IEEE TIM Outstanding Reviewer Award.</li>
-  <li><strong>2025.01</strong>: 2024 IEEE TIM Outstanding Reviewer Award.</li>
-  <li><strong>2025.10</strong>: Keynote speaker at the 8th CSIG National Conference on Visual Inspection Technologies.</li>
-  <li><strong>2025.09</strong>: One United States invention patent granted; six Chinese invention patents granted.</li>
-  <li>First Prize of Science and Technology Innovation Award of the China General Chamber of Commerce.</li>
-  <li>Second Prize of the Invention and Entrepreneurship Innovation Award of the China Association of Inventions.</li>
-  <li>First Prize of the National Service Industry Science and Technology Innovation Award of the China General Chamber of Commerce.</li>
+  <li>National Scholarship from the Ministry of Education, Ph.D. stage (2024.10).</li>
+  <li>National Scholarship from the Ministry of Education, M.S. stage (2020.10).</li>
+  <li>2025 IEEE TIM Outstanding Reviewer Award.</li>
+  <li>2024 IEEE TIM Outstanding Reviewer Award.</li>
+  <li>Keynote speaker at the 8th CSIG National Conference on Visual Inspection Technologies.</li>
+  <li>One United States invention patent and six Chinese invention patents granted.</li>
+  <li>湖南大学优秀研究生、优秀毕业生（2025）.</li>
+  <li>中国商业联合会科技创新奖一等奖.</li>
+  <li>中国发明协会发明创业奖创新奖二等奖.</li>
+  <li>中国商业联合会全国服务业科技创新奖一等奖.</li>
 </ul>
 
-# Projects and Service
+<h1 id="projects"><i class="fas fa-project-diagram ray-heading-icon" aria-hidden="true"></i> Projects</h1>
+
+<div class="ray-projects">
+  <div class="ray-project">
+    <span><strong>国家自然科学基金重点项目</strong><br>复杂受限环境下机器人多模态三维感知与自主灵巧作业研究</span>
+    <span>2021-2026<br>290万</span>
+    <span>核心成员</span>
+  </div>
+  <div class="ray-project">
+    <span><strong>国家自然科学基金重大项目课题二</strong><br>大范围制造场景下集群机器人多模态精准感知</span>
+    <span>2023-2027<br>200万</span>
+    <span>核心成员</span>
+  </div>
+  <div class="ray-project">
+    <span><strong>国家电网公司总部科技项目</strong><br>高性能声音敏感材料、器件与智能声源定位系统研究及应用</span>
+    <span>2024-2026<br>260万</span>
+    <span>核心成员</span>
+  </div>
+  <div class="ray-project">
+    <span><strong>湖南省研究生科研创新项目</strong><br>基于CNN和GCN多模型融合的药液异物检测方法研究</span>
+    <span>2022-2024<br>1万</span>
+    <span>主持</span>
+  </div>
+  <div class="ray-project">
+    <span><strong>湖南省研究生科研创新项目</strong><br>复杂电力场景下的机器人三维视觉检测技术研究</span>
+    <span>2020-2021<br>1万</span>
+    <span>主持</span>
+  </div>
+  <div class="ray-project">
+    <span><strong>国家留学基金委博士联合培养项目</strong><br>University of Technology Sydney, hosted by Prof. Xiaojun Chang</span>
+    <span>2024-2025</span>
+    <span>主持</span>
+  </div>
+  <div class="ray-project">
+    <span><strong>国家科技重大专项</strong><br>重点任务技术攻关与工程验证</span>
+    <span>3318.94万</span>
+    <span>课题骨干</span>
+  </div>
+</div>
+
+<h1 id="service-and-talks"><i class="fas fa-chalkboard-teacher ray-heading-icon" aria-hidden="true"></i> Service and Talks</h1>
 
 <ul class="ray-compact-list">
-  <li>Principal investigator of a China Scholarship Council doctoral joint-training project at the University of Technology Sydney, with Prof. Xiaojun Chang (常晓军，长江讲席特聘教授) as host supervisor.</li>
-  <li>Principal investigator of two provincial graduate research innovation projects.</li>
-  <li>Participated in major and key projects, including a Key Program of the National Natural Science Foundation of China (2.90 million RMB), a Major Program of the National Natural Science Foundation of China (15.00 million RMB), and a National Science and Technology Major Project (33.1894 million RMB, key project member).</li>
   <li>Long-term reviewer for leading journals and conferences, including <em>IEEE TNNLS</em>, <em>IEEE TII</em>, <em>IEEE TIM</em>, and ICCV.</li>
   <li>Invited academic talks at the 2025 CSIG National Conference on Visual Inspection Technologies and national postdoctoral academic exchange events.</li>
 </ul>
 
-# Educations
+<h1 id="educations"><i class="fas fa-graduation-cap ray-heading-icon" aria-hidden="true"></i> Educations</h1>
 
 <ul class="ray-compact-list">
   <li><strong>2025 - present</strong>: Postdoctoral Researcher, Control Science and Engineering, Hunan University, Changsha.</li>

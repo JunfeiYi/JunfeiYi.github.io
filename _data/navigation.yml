@@ -15,8 +15,11 @@ main:
   - title: "Honors and Awards"
     url: /#honors-and-awards
 
-  - title: "Projects and Service"
-    url: /#projects-and-service
+  - title: "Projects"
+    url: /#projects
+
+  - title: "Service and Talks"
+    url: /#service-and-talks
 
   - title: "Educations"
     url: /#educations
