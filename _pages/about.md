@@ -13,7 +13,7 @@ redirect_from:
 
 I am Junfei Yi (易俊飞), a Postdoctoral Researcher in Control Science and Engineering (控制科学与工程, a national key discipline) at Hunan University. I am affiliated with the School of Artificial Intelligence and Robotics and the National Engineering Research Center of Robot Visual Perception and Control Technology.
 
-My postdoctoral work is jointly supervised by [Prof. Yaonan Wang (王耀南，中国工程院院士)](https://eeit.hnu.edu.cn/info/1277/4490.htm) and [Prof. Hui Zhang (张辉，长江学者特聘教授)](https://robotics.hnu.edu.cn/info/1071/1538.htm). I completed my Ph.D. at Hunan University under the supervision of Prof. Wang, [Prof. Jianxu Mao (毛建旭)](https://eeit.hnu.edu.cn/info/1404/4625.htm), and Prof. Zhang. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓军，长江讲席特聘教授)](https://www.xiaojun.ai/).
+My postdoctoral work is jointly supervised by [Prof. Yaonan Wang (王耀南，中国工程院院士)](https://robotics.hnu.edu.cn/info/1176/3098.htm) and [Prof. Hui Zhang (张辉，长江学者特聘教授)](https://robotics.hnu.edu.cn/info/1176/2966.htm). I completed my Ph.D. at Hunan University under the supervision of Prof. Wang, [Prof. Jianxu Mao (毛建旭)](https://robotics.hnu.edu.cn/info/1176/3280.htm), and Prof. Zhang. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓军，长江讲席特聘教授)](https://www.xiaojun.ai/).
 
 My research is driven by major engineering needs in robotics and intelligent inspection. I work on robust robotic perception, precise localization, efficient recognition, object detection, visual inspection, and knowledge distillation for complex, resource-constrained, and cross-scale industrial environments.
 
