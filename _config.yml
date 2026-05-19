@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Junfei Yi"
 title_separator          : "-"
-name                     : &name "Junfei Yi"
+name                     : &name "Junfei Yi (易俊飞)"
 description              : &description "Focusing on computer vision for industrial visual inspection."
 url                      : https://JunfeiYi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junfei Yi"
+  name             : "Junfei Yi (易俊飞)"
   avatar           : "me.png"
   bio              : "Postdoctoral Researcher at Hunan University."
   location         : "Changsha, China"

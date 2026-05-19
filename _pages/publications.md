@@ -15,7 +15,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TPAMI 2026</div>
-    <div class="ray-thumb"><img src="/images/papers/tpami-2026-distilling-object-detectors.jpg" alt="Framework of Distilling Object Detectors via Monte Carlo Dropout"></div>
+    <div class="ray-thumb"><img src="/images/papers/tpami-2026-distilling-object-detectors.png" alt="Framework of Distilling Object Detectors via Monte Carlo Dropout"></div>
   </div>
   <div>
     <h3><a href="https://doi.org/10.1109/TPAMI.2026.3674980">Distilling Object Detectors via Monte Carlo Dropout</a></h3>
@@ -27,7 +27,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TNNLS 2026</div>
-    <div class="ray-thumb"><img src="/images/papers/tnnls-2026-corekd.jpg" alt="Framework of CoreKD"></div>
+    <div class="ray-thumb"><img src="/images/papers/tnnls-2026-corekd.png" alt="Framework of CoreKD"></div>
   </div>
   <div>
     <h3><a href="https://doi.org/10.1109/TNNLS.2026.3672967">CoreKD: A Context-Aware Local Region Structural Contrastive Knowledge Distillation Framework for Object Detection</a></h3>
@@ -53,7 +53,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">ACM TIST 2025</div>
-    <div class="ray-thumb"><img src="/images/papers/tist-2025-yono.jpg" alt="You Can Only Tune Normalization comparison figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/tist-2025-yono.png" alt="You Can Only Tune Normalization comparison figure"></div>
   </div>
   <div>
     <h3><a href="https://doi.org/10.1145/3763004">You Can Only Tune Normalization: A Simple and Effective Approach to Parameter-Efficient Fine-Tuning</a></h3>
@@ -65,7 +65,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">ICCV 2025</div>
-    <div class="ray-thumb"><img src="/images/papers/iccv-2025-cvpt.jpg" alt="CVPT Cross Visual Prompt Tuning figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/iccv-2025-cvpt.png" alt="CVPT Cross Visual Prompt Tuning figure"></div>
   </div>
   <div>
     <h3><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Huang_CVPT_Cross_Visual_Prompt_Tuning_ICCV_2025_paper.html">CVPT: Cross Visual Prompt Tuning</a></h3>
@@ -79,7 +79,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">T-Mech 2025</div>
-    <div class="ray-thumb"><img src="/images/papers/tmech-2025-shape-aware-refinement.jpg" alt="Transmission line inspection method overview"></div>
+    <div class="ray-thumb"><img src="/images/papers/tmech-2025-shape-aware-refinement.png" alt="Transmission line inspection method overview"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10887538/">A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</a></h3>
@@ -93,7 +93,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TII 2025</div>
-    <div class="ray-thumb"><img src="/images/papers/tii-2025-multiscale-uncertainty.jpg" alt="Multiscale uncertainty-aware knowledge-based network"></div>
+    <div class="ray-thumb"><img src="/images/papers/tii-2025-multiscale-uncertainty.png" alt="Multiscale uncertainty-aware knowledge-based network"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10841846/">Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</a></h3>
@@ -107,7 +107,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TCSVT 2024</div>
-    <div class="ray-thumb"><img src="/images/papers/tcsvt-2024-fmsd.jpg" alt="FMSD small fasteners detection figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/tcsvt-2024-fmsd.png" alt="FMSD small fasteners detection figure"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10731891">FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</a></h3>
@@ -119,7 +119,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">arXiv 2024</div>
-    <div class="ray-thumb"><img src="/images/papers/tnnls-2026-corekd.jpg" alt="Knowledge distillation figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/tnnls-2026-corekd.png" alt="Knowledge distillation figure"></div>
   </div>
   <div>
     <h3>Teaching With Uncertainty: Uncertainty-Aware Knowledge Distillation for Object Detection</h3>
@@ -130,7 +130,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TIM 2023</div>
-    <div class="ray-thumb"><img src="/images/papers/tim-2023-pstl-net.jpg" alt="PSTL-Net transmission line inspection figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/tim-2023-pstl-net.png" alt="PSTL-Net transmission line inspection figure"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10375333">PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection</a></h3>
@@ -142,7 +142,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">EAAI 2022</div>
-    <div class="ray-thumb"><img src="/images/papers/eaai-2022-covid-review.jpg" alt="COVID-19 AI prevention and control system figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/eaai-2022-covid-review.png" alt="COVID-19 AI prevention and control system figure"></div>
   </div>
   <div>
     <h3><a href="https://www.sciencedirect.com/science/article/pii/S0952197622002858">Review on the COVID-19 Pandemic Prevention and Control System Based on AI</a></h3>
@@ -154,7 +154,7 @@ This page lists selected publications from the current homepage and Google Schol
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TETCI 2022</div>
-    <div class="ray-thumb"><img src="/images/papers/tetci-2022-pharmaceutical.jpg" alt="Pharmaceutical foreign particle detection figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/tetci-2022-pharmaceutical.png" alt="Pharmaceutical foreign particle detection figure"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/9756199/">Pharmaceutical Foreign Particle Detection: An Efficient Method Based on Adaptive Convolution and Multiscale Attention</a></h3>

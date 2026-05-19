@@ -1,7 +1,10 @@
 _site/
+.DS_Store
+**/.DS_Store
 .bundle/
 .bundle-home/
 vendor/
 images/papers/_renders/
 images/papers/contact-sheet.jpg
 images/papers/thumb-sheet.jpg
+images/papers/user-thumb-sheet.jpg

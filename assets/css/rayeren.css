@@ -11,7 +11,7 @@
 body {
   background: var(--ray-bg);
   color: var(--ray-ink);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   letter-spacing: 0;
 }
 
@@ -200,7 +200,7 @@ body {
   width: 100%;
   height: 100%;
   display: block;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .ray-publication h3 {

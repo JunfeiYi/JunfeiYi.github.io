@@ -11,9 +11,9 @@ redirect_from:
 
 # About Me
 
-I am a Postdoctoral Researcher with the School of Artificial Intelligence and Robotics, and the National Engineering Research Center of Robot Visual Perception and Control Technology, Hunan University.
+I am Junfei Yi (易俊飞), a Postdoctoral Researcher with the School of Artificial Intelligence and Robotics, and the National Engineering Research Center of Robot Visual Perception and Control Technology, Hunan University.
 
-I recently completed my Ph.D. at Hunan University, advised by [Prof. Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm), [Prof. Jianxu Mao](https://eeit.hnu.edu.cn/info/1404/4625.htm), and [Prof. Hui Zhang](https://robotics.hnu.edu.cn/info/1071/1538.htm). From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang](https://www.xiaojun.ai/).
+I recently completed my Ph.D. at Hunan University, advised by [Prof. Yaonan Wang (王耀南)](https://eeit.hnu.edu.cn/info/1277/4490.htm), [Prof. Jianxu Mao (毛建旭)](https://eeit.hnu.edu.cn/info/1404/4625.htm), and [Prof. Hui Zhang (张辉)](https://robotics.hnu.edu.cn/info/1071/1538.htm). From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓君)](https://www.xiaojun.ai/).
 
 My research interests include image processing, object detection, visual inspection, and knowledge distillation. I focus on efficient and reliable perception models for real-world industrial scenes, including power equipment inspection and transmission line inspection.
 
@@ -37,7 +37,7 @@ My research interests include image processing, object detection, visual inspect
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TPAMI 2026</div>
-    <div class="ray-thumb"><img src="/images/papers/tpami-2026-distilling-object-detectors.jpg" alt="Framework of Distilling Object Detectors via Monte Carlo Dropout"></div>
+    <div class="ray-thumb"><img src="/images/papers/tpami-2026-distilling-object-detectors.png" alt="Framework of Distilling Object Detectors via Monte Carlo Dropout"></div>
   </div>
   <div>
     <h3><a href="https://doi.org/10.1109/TPAMI.2026.3674980">Distilling Object Detectors via Monte Carlo Dropout</a></h3>
@@ -52,7 +52,7 @@ My research interests include image processing, object detection, visual inspect
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TNNLS 2026</div>
-    <div class="ray-thumb"><img src="/images/papers/tnnls-2026-corekd.jpg" alt="Framework of CoreKD"></div>
+    <div class="ray-thumb"><img src="/images/papers/tnnls-2026-corekd.png" alt="Framework of CoreKD"></div>
   </div>
   <div>
     <h3><a href="https://doi.org/10.1109/TNNLS.2026.3672967">CoreKD: A Context-Aware Local Region Structural Contrastive Knowledge Distillation Framework for Object Detection</a></h3>
@@ -82,7 +82,7 @@ My research interests include image processing, object detection, visual inspect
 <div class="ray-publication">
   <div>
     <div class="ray-venue">T-Mech 2025</div>
-    <div class="ray-thumb"><img src="/images/papers/tmech-2025-shape-aware-refinement.jpg" alt="Transmission line inspection method overview"></div>
+    <div class="ray-thumb"><img src="/images/papers/tmech-2025-shape-aware-refinement.png" alt="Transmission line inspection method overview"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10887538/">A Novel Transmission Line Inspection Method Based on the Shape-Aware Features Refinement Network</a></h3>
@@ -97,7 +97,7 @@ My research interests include image processing, object detection, visual inspect
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TII 2025</div>
-    <div class="ray-thumb"><img src="/images/papers/tii-2025-multiscale-uncertainty.jpg" alt="Multiscale uncertainty-aware knowledge-based network"></div>
+    <div class="ray-thumb"><img src="/images/papers/tii-2025-multiscale-uncertainty.png" alt="Multiscale uncertainty-aware knowledge-based network"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10841846/">Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection</a></h3>
@@ -112,7 +112,7 @@ My research interests include image processing, object detection, visual inspect
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TCSVT 2024</div>
-    <div class="ray-thumb"><img src="/images/papers/tcsvt-2024-fmsd.jpg" alt="FMSD small fasteners detection figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/tcsvt-2024-fmsd.png" alt="FMSD small fasteners detection figure"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10731891">FMSD: Focal Multi-scale Shape-feature Distillation Network for Small Fasteners Detection in Electric Power Scene</a></h3>
@@ -127,7 +127,7 @@ My research interests include image processing, object detection, visual inspect
 <div class="ray-publication">
   <div>
     <div class="ray-venue">IEEE TIM 2023</div>
-    <div class="ray-thumb"><img src="/images/papers/tim-2023-pstl-net.jpg" alt="PSTL-Net transmission line inspection figure"></div>
+    <div class="ray-thumb"><img src="/images/papers/tim-2023-pstl-net.png" alt="PSTL-Net transmission line inspection figure"></div>
   </div>
   <div>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/10375333">PSTL-Net: A Patchwise Self-Texture-Learning Network for Transmission Line Inspection</a></h3>
