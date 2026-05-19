@@ -143,6 +143,9 @@ I have published 40+ papers in high-impact journals and conferences, including <
 <h1 id="honors-and-awards"><i class="fas fa-award ray-heading-icon" aria-hidden="true"></i> Honors and Awards</h1>
 
 <ul class="ray-compact-list">
+  <li>中国商业联合会科技创新奖一等奖.</li>
+  <li>中国发明协会发明创业奖创新奖二等奖.</li>
+  <li>中国商业联合会全国服务业科技创新奖一等奖.</li>
   <li>Selected by the China Association for Science and Technology (CAST) Excellent Scientific and Technological Paper Program (中国科协优秀科技论文遴选计划, 22 papers selected nationally in the field).</li>
   <li>Best Paper Award from <em>Control and Decision</em> (《控制与决策》最佳论文奖).</li>
   <li>National Scholarship from the Ministry of Education, Ph.D. stage (2024.10).</li>
@@ -151,51 +154,29 @@ I have published 40+ papers in high-impact journals and conferences, including <
   <li>2024 IEEE TIM Outstanding Reviewer Award.</li>
   <li>Keynote speaker at the 8th CSIG National Conference on Visual Inspection Technologies.</li>
   <li>One United States invention patent and six Chinese invention patents granted.</li>
-  <li>湖南大学优秀研究生、优秀毕业生（2025）.</li>
-  <li>中国商业联合会科技创新奖一等奖.</li>
-  <li>中国发明协会发明创业奖创新奖二等奖.</li>
-  <li>中国商业联合会全国服务业科技创新奖一等奖.</li>
+  <li>Hunan University Outstanding Graduate Student and Outstanding Graduate Award, 2025.</li>
 </ul>
 
 <h1 id="projects"><i class="fas fa-project-diagram ray-heading-icon" aria-hidden="true"></i> Projects</h1>
 
 <div class="ray-projects">
-  <div class="ray-project">
-    <span><strong>国家自然科学基金重点项目</strong><br>复杂受限环境下机器人多模态三维感知与自主灵巧作业研究</span>
-    <span>2021-2026<br>290万</span>
-    <span>核心成员</span>
-  </div>
-  <div class="ray-project">
-    <span><strong>国家自然科学基金重大项目课题二</strong><br>大范围制造场景下集群机器人多模态精准感知</span>
-    <span>2023-2027<br>200万</span>
-    <span>核心成员</span>
-  </div>
-  <div class="ray-project">
-    <span><strong>国家电网公司总部科技项目</strong><br>高性能声音敏感材料、器件与智能声源定位系统研究及应用</span>
-    <span>2024-2026<br>260万</span>
-    <span>核心成员</span>
-  </div>
-  <div class="ray-project">
-    <span><strong>湖南省研究生科研创新项目</strong><br>基于CNN和GCN多模型融合的药液异物检测方法研究</span>
-    <span>2022-2024<br>1万</span>
-    <span>主持</span>
-  </div>
-  <div class="ray-project">
-    <span><strong>湖南省研究生科研创新项目</strong><br>复杂电力场景下的机器人三维视觉检测技术研究</span>
-    <span>2020-2021<br>1万</span>
-    <span>主持</span>
-  </div>
-  <div class="ray-project">
-    <span><strong>国家留学基金委博士联合培养项目</strong><br>University of Technology Sydney, hosted by Prof. Xiaojun Chang</span>
-    <span>2024-2025</span>
-    <span>主持</span>
-  </div>
-  <div class="ray-project">
-    <span><strong>国家科技重大专项</strong><br>重点任务技术攻关与工程验证</span>
-    <span>3318.94万</span>
-    <span>课题骨干</span>
-  </div>
+
+  <div class="ray-project">国家留学基金委博士联合培养项目：University of Technology Sydney, hosted by Prof. Xiaojun Chang（2024–2025），主持。</div>
+  
+    <div class="ray-project">湖南省研究生科研创新项目：基于CNN和GCN多模型融合的药液异物检测方法研究（2022–2024，1万），主持。</div>
+
+  <div class="ray-project">湖南省研究生科研创新项目：复杂电力场景下的机器人三维视觉检测技术研究（2020–2021，1万），主持。</div>
+  
+    <div class="ray-project">国家科技重大专项：高精度智能装调的具身感知模型与自主执行系统研发及验证（3318.94万），课题骨干。</div>
+  
+  <div class="ray-project">国家自然科学基金重点项目：复杂受限环境下机器人多模态三维感知与自主灵巧作业研究（2021–2026，290万），核心成员。</div>
+
+  <div class="ray-project">国家自然科学基金重大项目课题二：大范围制造场景下集群机器人多模态精准感知（2023–2027，200万），核心成员。</div>
+
+  <div class="ray-project">国家电网公司总部科技项目：高性能声音敏感材料、器件与智能声源定位系统研究及应用（2024–2026，260万），核心成员。</div>
+
 </div>
+
 
 <h1 id="service-and-talks"><i class="fas fa-chalkboard-teacher ray-heading-icon" aria-hidden="true"></i> Service and Talks</h1>
 
