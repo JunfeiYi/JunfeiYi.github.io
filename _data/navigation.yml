@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: /#news
 
-  # - title: "Research"
-  #   url: /#research-profile
+  - title: "Research"
+    url: /#research-profile
 
   - title: "Publications"
     url: /#publications
@@ -24,8 +24,8 @@ main:
   - title: "Educations"
     url: /#educations
 
-  - title: "Google Scholar"
-    url: https://scholar.google.com/citations?user=uPcYnKIAAAAJ&hl=en
+  # - title: "Google Scholar"
+  #   url: https://scholar.google.com/citations?user=uPcYnKIAAAAJ&hl=en
 
   #- title: "Teaching"
   #  url: /teaching/    

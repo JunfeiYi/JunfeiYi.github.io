@@ -84,7 +84,7 @@ I have published 40+ papers in high-impact journals and conferences, including <
 
 <div class="ray-publication">
   <div>
-    <div class="ray-venue">T-Mech 2025</div>
+    <div class="ray-venue">IEEE T-MECH 2025</div>
     <div class="ray-thumb"><img src="/images/papers/tmech-2025-shape-aware-refinement.png" alt="Transmission line inspection method overview"></div>
   </div>
   <div>
