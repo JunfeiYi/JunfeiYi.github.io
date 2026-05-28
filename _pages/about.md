@@ -26,7 +26,7 @@ I have published 40+ papers in high-impact journals and conferences, including <
 <h1 id="news"><i class="fas fa-newspaper ray-heading-icon" aria-hidden="true"></i> News</h1>
 
 <ul class="ray-news">
-  <li><strong>2026.05</strong>: <strong>MeSIF-Net: Multi-level Cross-scale Information Fusion via Knowledge Distillation for Low-resolution Industrial Surface Defect Detection</strong> is accepted by <em>Information Fusion</em>. Congratulations to Zhiqiang!</li>
+  <li><strong>2026.05</strong>: <strong>MeSIF-Net: Multi-level Cross-scale Information Fusion via Knowledge Distillation for Low-resolution Industrial Surface Defect Detection</strong> is accepted by <em>Information Fusion (IF=15.5)</em>. Congratulations to Zhiqiang!</li>
   <li><strong>2026.03</strong>: <strong>Distilling Object Detectors via Monte Carlo Dropout</strong> appears in <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>.</li>
   <li><strong>2026.03</strong>: <strong>CoreKD</strong> appears in <em>IEEE Transactions on Neural Networks and Learning Systems</em>.</li>
   <li><strong>2026.01</strong>: Received the <em>2025 IEEE TIM Outstanding Reviewer</em> award.</li>
