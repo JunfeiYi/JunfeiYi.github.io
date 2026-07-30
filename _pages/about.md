@@ -26,7 +26,7 @@ I have published 40+ papers in high-impact journals and conferences, including <
 <h1 id="news"><i class="fas fa-newspaper ray-heading-icon" aria-hidden="true"></i> News</h1>
 
 <ul class="ray-news">
-  <li><strong>2026.07</strong>: <strong>Making Knowledge Distillation Open Again</strong> is accepted by <em>IEEE TIP</em>. Congratulations to all co-authors!</li>
+  <li><strong>2026.07</strong>: <strong>Making Knowledge Distillation Open Again</strong> is accepted by <em>IEEE TIP</em>.</li>
   <li><strong>2026.06.18</strong>: <strong>Orthogonal View-Driven Stereoscopic Spatial Distillation for Low-beam LiDAR 3D Object Detection</strong> is accepted by <em>IEEE TII</em>. Congratulations to Hewei!</li>
   <li><strong>2026.06.12</strong>: Our paper <strong>Looking Broader for Knowledge Distillation via Receptive-Field Alignment</strong> is accepted by <em>IEEE TPAMI</em>.</li>
   <li><strong>2026.05</strong>: <strong>MeSIF-Net: Multi-level Cross-scale Information Fusion via Knowledge Distillation for Low-resolution Industrial Surface Defect Detection</strong> is accepted by <em>Information Fusion</em>. Congratulations to Zhiqiang!</li>
