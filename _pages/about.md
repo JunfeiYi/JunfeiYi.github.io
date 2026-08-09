@@ -177,8 +177,8 @@ I have published 40+ papers in high-impact journals and conferences, including <
 <h1 id="service-and-talks"><i class="fas fa-chalkboard-teacher ray-heading-icon" aria-hidden="true"></i> Service and Talks</h1>
 
 <ul class="ray-compact-list">
-  <li><strong>Journal Reviewer:</strong> <em>IEEE TPAMI</em>, <em>IEEE TNNLS</em>, <em>IEEE TII</em>, <em>IEEE TCSVT</em>, <em>IEEE TIM</em>, and <em>Expert Systems with Applications (ESWA)</em>.</li>
-  <li><strong>Conference Reviewer:</strong> ICCV and AAAI.</li>
+  <li><strong>Journal Reviewer:</strong> <em>IEEE TPAMI</em>, <em>IEEE TNNLS</em>, <em>IEEE TII</em>, <em>IEEE TCSVT</em>, <em>IEEE TIM</em>, <em>ESWA</em>, etc.</li>
+  <li><strong>Conference Reviewer:</strong> ICCV, AAAI, ICRA, etc.</li>
   <li>Invited academic talks at the 2025 CSIG National Conference on Visual Inspection Technologies and national postdoctoral academic exchange events.</li>
 </ul>
 
