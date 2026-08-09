@@ -147,6 +147,7 @@ I have published 40+ papers in high-impact journals and conferences, including <
 <h1 id="honors-and-awards"><i class="fas fa-award ray-heading-icon" aria-hidden="true"></i> Honors and Awards</h1>
 
 <ul class="ray-compact-list">
+  <li>博士后创新人才支持计划.</li>
   <li>中国商业联合会科技创新奖一等奖.</li>
   <li>中国发明协会发明创业奖创新奖二等奖.</li>
   <li>中国商业联合会全国服务业科技创新奖一等奖.</li>
