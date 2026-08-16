@@ -130,18 +130,20 @@ body {
 }
 
 .ray-page .author__position > strong {
+  max-width: 15rem;
+  margin: 0 auto;
   color: var(--ray-ink);
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   font-weight: 600;
-  line-height: 1.3;
-  white-space: nowrap;
+  line-height: 1.4;
 }
 
 .ray-page .author__position > small {
   max-width: 15rem;
   margin: 0.22rem auto 0;
   color: var(--ray-muted);
-  font-size: 0.67rem;
+  font-size: 0.7rem;
+  font-weight: 500;
   line-height: 1.35;
 }
 
