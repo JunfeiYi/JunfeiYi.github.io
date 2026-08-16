@@ -11,7 +11,7 @@ redirect_from:
 
 <h1 id="about-me"><i class="fas fa-user ray-heading-icon" aria-hidden="true"></i> About Me</h1>
 
-I am Junfei Yi (易俊飞), a Postdoctoral Researcher in Control Science and Engineering (控制科学与工程, a national key discipline) at Hunan University. I was selected for the China Postdoctoral Innovative Talent Support Program (博士后创新人才支持计划) and as a Young Talent of the Hunan Province Furong Program (湖南省芙蓉计划青年人才). I am affiliated with the School of Artificial Intelligence and Robotics and the National Engineering Research Center of Robot Visual Perception and Control Technology.
+I am Junfei Yi (易俊飞), a Postdoctoral Researcher in Control Science and Engineering (控制科学与工程, a national key discipline) at Hunan University. I was selected for the China Postdoctoral Innovative Talent Support Program (博士后创新人才支持计划) and as a Young Talent of the Hunan Province Furong Program (湖南省芙蓉计划青年人才). I serve as an Assistant Researcher (助理研究员) at the School of Artificial Intelligence and Robotics and as an Associate Researcher (副研究员) at the National Engineering Research Center of Robot Visual Perception and Control Technology.
 
 My postdoctoral work is jointly supervised by [Prof. Yaonan Wang (王耀南，中国工程院院士)](https://robotics.hnu.edu.cn/info/1176/3098.htm) and [Prof. Hui Zhang (张辉，长江学者特聘教授)](https://robotics.hnu.edu.cn/info/1176/2966.htm). I completed my Ph.D. at Hunan University under the supervision of Prof. Wang, [Prof. Jianxu Mao (毛建旭)](https://robotics.hnu.edu.cn/info/1176/3280.htm), and Prof. Zhang. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney, working with [Prof. Xiaojun Chang (常晓军，长江讲席特聘教授)](https://www.xiaojun.ai/).
 
