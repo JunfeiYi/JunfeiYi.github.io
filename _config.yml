@@ -82,7 +82,12 @@ analytics:
 author:
   name             : "Junfei Yi (易俊飞)"
   avatar           : "me.png"
-  bio              : "Postdoctoral Researcher in Control Science and Engineering at Hunan University.<br>Assistant Researcher (助理研究员), School of Artificial Intelligence and Robotics.<br>Associate Researcher (副研究员), National Engineering Research Center of Robot Visual Perception and Control Technology."
+  bio              : "Postdoctoral Researcher<br>Control Science and Engineering"
+  positions:
+    - title        : "Assistant Researcher (助理研究员)"
+      organization : "School of Artificial Intelligence and Robotics"
+    - title        : "Associate Researcher (副研究员)"
+      organization : "National Engineering Research Center of Robot Visual Perception and Control Technology"
   location         : "Changsha, China"
   employer         : "Hunan University"
   memberships:

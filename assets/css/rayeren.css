@@ -91,8 +91,54 @@ body {
 .ray-page .author__bio {
   margin: 0 0 0.85rem;
   color: var(--ray-muted);
-  font-size: 0.88rem;
-  line-height: 1.55;
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.ray-page .author__positions {
+  margin: 0.9rem 0 1rem;
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--ray-border);
+  border-bottom: 1px solid var(--ray-border);
+  list-style: none;
+  text-align: left;
+}
+
+.ray-page .author__position {
+  display: grid;
+  grid-template-columns: 1rem minmax(0, 1fr);
+  gap: 0.5rem;
+  margin: 0 0 0.8rem;
+  color: var(--ray-muted);
+}
+
+.ray-page .author__position:last-child {
+  margin-bottom: 0;
+}
+
+.ray-page .author__position > i {
+  margin-top: 0.18rem;
+  color: var(--ray-link);
+  font-size: 0.72rem;
+}
+
+.ray-page .author__position strong,
+.ray-page .author__position small {
+  display: block;
+}
+
+.ray-page .author__position strong {
+  color: var(--ray-ink);
+  font-size: 0.79rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.ray-page .author__position small {
+  margin-top: 0.16rem;
+  color: var(--ray-muted);
+  font-size: 0.72rem;
+  line-height: 1.4;
 }
 
 .ray-page .author__urls-wrapper button {
