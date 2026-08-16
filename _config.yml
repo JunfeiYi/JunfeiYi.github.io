@@ -84,10 +84,10 @@ author:
   avatar           : "me.png"
   bio              : ""
   positions:
-    - title        : "人工智能与机器人学院"
-      organization : "助理研究员 / 博士后"
-    - title        : "机器人视觉感知与控制技术国家工程研究中心"
-      organization : "副研究员"
+    - title        : "助理研究员 / 博士后"
+      organization : "人工智能与机器人学院"
+    - title        : "副研究员"
+      organization : "机器人视觉感知与控制技术国家工程研究中心"
   location         : "Changsha, China"
   employer         : "Hunan University"
   memberships:

@@ -96,12 +96,12 @@ body {
 }
 
 .ray-page .author__positions {
-  margin: 0.95rem 0 1.1rem;
-  padding: 0.8rem 0;
-  border-top: 1px solid var(--ray-border);
-  border-bottom: 1px solid var(--ray-border);
+  max-width: 15rem;
+  margin: 0.7rem auto 1rem;
+  padding: 0.08rem 0 0.08rem 0.75rem;
+  border-left: 2px solid rgba(31, 111, 210, 0.28);
   list-style: none;
-  text-align: center;
+  text-align: left;
 }
 
 .ray-page .author__position {
@@ -111,17 +111,7 @@ body {
 }
 
 .ray-page .author__position + .author__position {
-  margin-top: 0.72rem;
-  padding-top: 0.72rem;
-}
-
-.ray-page .author__position + .author__position::before {
-  display: block;
-  width: 1.5rem;
-  height: 1px;
-  margin: 0 auto 0.68rem;
-  background: var(--ray-border);
-  content: "";
+  margin-top: 0.62rem;
 }
 
 .ray-page .author__position > strong,
@@ -130,21 +120,19 @@ body {
 }
 
 .ray-page .author__position > strong {
-  max-width: 15rem;
-  margin: 0 auto;
+  margin: 0;
   color: var(--ray-ink);
-  font-size: 0.72rem;
+  font-size: 0.74rem;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.35;
 }
 
 .ray-page .author__position > small {
-  max-width: 15rem;
-  margin: 0.22rem auto 0;
+  margin: 0.12rem 0 0;
   color: var(--ray-muted);
-  font-size: 0.7rem;
-  font-weight: 500;
-  line-height: 1.35;
+  font-size: 0.66rem;
+  font-weight: 400;
+  line-height: 1.38;
 }
 
 .ray-page .author__urls-wrapper button {
