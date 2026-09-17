@@ -26,6 +26,7 @@ I have published 40+ papers in high-impact journals and conferences, including <
 <h1 id="news"><i class="fas fa-newspaper ray-heading-icon" aria-hidden="true"></i> News</h1>
 
 <ul class="ray-news">
+  <li><strong>2026.09</strong>: Our team won <strong>second place</strong> at the <em>ECCV 2026 EMR Workshop</em>. Congratulations to Maohua!</li>
   <li><strong>2026.09</strong>: Two papers have been accepted by <em>IEEE TASE</em> and <em>IEEE TMECH</em>. Congratulations to Zhenyu and Junlong!</li>
   <li><strong>2026.07</strong>: <strong>Making Knowledge Distillation Open Again</strong> is accepted by <em>IEEE TIP</em>.</li>
   <li><strong>2026.06.18</strong>: <strong>Orthogonal View-Driven Stereoscopic Spatial Distillation for Low-beam LiDAR 3D Object Detection</strong> is accepted by <em>IEEE TII</em>. Congratulations to Hewei!</li>
